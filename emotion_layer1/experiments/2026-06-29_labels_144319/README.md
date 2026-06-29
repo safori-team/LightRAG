@@ -10,6 +10,10 @@ Files:
   text and is ignored by git.
 - `gold_text.jsonl`: transcript-present subset for text-only Gemini tests. In
   this dump only 250 HUMAN annotation records have transcript text.
+- `with_transcripts.jsonl`: same transcript-present subset with a clearer name
+  for immediate tests.
+- `missing_transcripts.jsonl`: 250 records needing transcript backfill. Fill
+  `transcript_to_fill` for each record.
 
 Extraction command:
 
@@ -34,3 +38,11 @@ python3 emotion_layer1/experiments/extract_gold_from_pg_dump.py \
 
 Current split policy is deterministic annotation order: first 80% train, last
 20% holdout. Speaker-level split is not available yet.
+
+Missing transcript export:
+
+```bash
+python3 emotion_layer1/experiments/export_missing_transcripts.py \
+  emotion_layer1/experiments/2026-06-29_labels_144319/gold.jsonl \
+  emotion_layer1/experiments/2026-06-29_labels_144319/missing_transcripts.jsonl
+```

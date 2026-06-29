@@ -1,5 +1,7 @@
 */gold.jsonl
 */gold_text.jsonl
+*/with_transcripts.jsonl
+*/missing_transcripts.jsonl
 */gemini_outputs.jsonl
 */graph_candidates.jsonl
 */comparison.jsonl
