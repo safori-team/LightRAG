@@ -1,0 +1,732 @@
+{
+  "utt_7781": {
+    "clip_id": "7781",
+    "speaker": "F0001",
+    "major": [
+      "SAD"
+    ],
+    "sub": [
+      "SYMPATHY"
+    ]
+  },
+  "utt_10097": {
+    "clip_id": "10097",
+    "speaker": "F0001",
+    "major": [
+      "ANXIETY"
+    ],
+    "sub": [
+      "EMBARRASSMENT"
+    ]
+  },
+  "utt_12282": {
+    "clip_id": "12282",
+    "speaker": "F0001",
+    "major": [
+      "ANGRY"
+    ],
+    "sub": [
+      "CONTEMPT",
+      "FRUSTRATION"
+    ]
+  },
+  "utt_12820": {
+    "clip_id": "12820",
+    "speaker": "F0001",
+    "major": [
+      "SURPRISE"
+    ],
+    "sub": [
+      "FRUSTRATION",
+      "SURPRISE_NEGATIVE"
+    ]
+  },
+  "utt_14239": {
+    "clip_id": "14239",
+    "speaker": "F0001",
+    "major": [
+      "NEUTRAL"
+    ],
+    "sub": [
+      "DOUBT"
+    ]
+  },
+  "utt_14278": {
+    "clip_id": "14278",
+    "speaker": "F0001",
+    "major": [
+      "ANGRY"
+    ],
+    "sub": [
+      "FRUSTRATION"
+    ]
+  },
+  "utt_17286": {
+    "clip_id": "17286",
+    "speaker": "F0001",
+    "major": [
+      "NEUTRAL"
+    ],
+    "sub": [
+      "TIREDNESS"
+    ]
+  },
+  "utt_18507": {
+    "clip_id": "18507",
+    "speaker": "F0001",
+    "major": [
+      "HAPPY"
+    ],
+    "sub": [
+      "CALMNESS",
+      "CONTENTMENT",
+      "PRIDE"
+    ]
+  },
+  "utt_24487": {
+    "clip_id": "24487",
+    "speaker": "F0002",
+    "major": [
+      "ANGRY"
+    ],
+    "sub": [
+      "FRUSTRATION"
+    ]
+  },
+  "utt_25988": {
+    "clip_id": "25988",
+    "speaker": "F0002",
+    "major": [
+      "NEUTRAL"
+    ],
+    "sub": [
+      "CALMNESS",
+      "CONCENTRATION"
+    ]
+  },
+  "utt_28307": {
+    "clip_id": "28307",
+    "speaker": "F0002",
+    "major": [
+      "ANXIETY"
+    ],
+    "sub": [
+      "ANXIETY_GENERAL"
+    ]
+  },
+  "utt_34836": {
+    "clip_id": "34836",
+    "speaker": "F0002",
+    "major": [
+      "ANXIETY"
+    ],
+    "sub": [
+      "ANXIETY_GENERAL"
+    ]
+  },
+  "utt_36462": {
+    "clip_id": "36462",
+    "speaker": "F0002",
+    "major": [
+      "SAD"
+    ],
+    "sub": [
+      "DISAPPOINTMENT"
+    ]
+  },
+  "utt_36690": {
+    "clip_id": "36690",
+    "speaker": "F0002",
+    "major": [
+      "NEUTRAL"
+    ],
+    "sub": [
+      "TIREDNESS"
+    ]
+  },
+  "utt_37445": {
+    "clip_id": "37445",
+    "speaker": "F0002",
+    "major": [
+      "ANXIETY"
+    ],
+    "sub": [
+      "ANXIETY_GENERAL"
+    ]
+  },
+  "utt_37448": {
+    "clip_id": "37448",
+    "speaker": "F0002",
+    "major": [
+      "ANGRY"
+    ],
+    "sub": [
+      "CONCENTRATION"
+    ]
+  },
+  "utt_90123": {
+    "clip_id": "90123",
+    "speaker": "M0001",
+    "major": [
+      "NEUTRAL"
+    ],
+    "sub": [
+      "BOREDOM",
+      "TIREDNESS"
+    ]
+  },
+  "utt_99861": {
+    "clip_id": "99861",
+    "speaker": "M0002",
+    "major": [
+      "NEUTRAL"
+    ],
+    "sub": [
+      "CALMNESS"
+    ]
+  },
+  "utt_103107": {
+    "clip_id": "103107",
+    "speaker": "M0002",
+    "major": [
+      "SAD"
+    ],
+    "sub": [
+      "EMBARRASSMENT"
+    ]
+  },
+  "utt_103284": {
+    "clip_id": "103284",
+    "speaker": "M0002",
+    "major": [
+      "SAD"
+    ],
+    "sub": [
+      "EMBARRASSMENT"
+    ]
+  },
+  "utt_104479": {
+    "clip_id": "104479",
+    "speaker": "M0002",
+    "major": [
+      "NEUTRAL"
+    ],
+    "sub": [
+      "CALMNESS"
+    ]
+  },
+  "utt_105839": {
+    "clip_id": "105839",
+    "speaker": "M0002",
+    "major": [
+      "NEUTRAL"
+    ],
+    "sub": [
+      "INTEREST"
+    ]
+  },
+  "utt_108369": {
+    "clip_id": "108369",
+    "speaker": "M0002",
+    "major": [
+      "NEUTRAL"
+    ],
+    "sub": [
+      "INTEREST"
+    ]
+  },
+  "utt_111420": {
+    "clip_id": "111420",
+    "speaker": "M0002",
+    "major": [
+      "ANGRY"
+    ],
+    "sub": [
+      "FRUSTRATION"
+    ]
+  },
+  "utt_113209": {
+    "clip_id": "113209",
+    "speaker": "M0002",
+    "major": [
+      "SAD"
+    ],
+    "sub": [
+      "EMPATHIC_PAIN"
+    ]
+  },
+  "utt_120738": {
+    "clip_id": "120738",
+    "speaker": "M0003",
+    "major": [
+      "ANXIETY"
+    ],
+    "sub": [
+      "ANXIETY_GENERAL"
+    ]
+  },
+  "utt_123185": {
+    "clip_id": "123185",
+    "speaker": "M0003",
+    "major": [
+      "SURPRISE"
+    ],
+    "sub": [
+      "ANXIETY_GENERAL",
+      "AWKWARDNESS",
+      "CONFUSION",
+      "SURPRISE_NEGATIVE"
+    ]
+  },
+  "utt_151806": {
+    "clip_id": "151806",
+    "speaker": "F2001",
+    "major": [
+      "SAD"
+    ],
+    "sub": [
+      "ANXIETY_GENERAL",
+      "GUILT"
+    ]
+  },
+  "utt_153082": {
+    "clip_id": "153082",
+    "speaker": "F2009",
+    "major": [
+      "ANXIETY",
+      "NEUTRAL",
+      "SAD"
+    ],
+    "sub": [
+      "ANXIETY_GENERAL"
+    ]
+  },
+  "utt_155097": {
+    "clip_id": "155097",
+    "speaker": "F2022",
+    "major": [
+      "ANGRY",
+      "SURPRISE"
+    ],
+    "sub": [
+      "FRUSTRATION",
+      "SURPRISE_NEGATIVE"
+    ]
+  },
+  "utt_156836": {
+    "clip_id": "156836",
+    "speaker": "F2033",
+    "major": [
+      "NEUTRAL"
+    ],
+    "sub": [
+      "CALMNESS",
+      "CONCENTRATION"
+    ]
+  },
+  "utt_156889": {
+    "clip_id": "156889",
+    "speaker": "F2033",
+    "major": [
+      "ANGRY"
+    ],
+    "sub": [
+      "FRUSTRATION"
+    ]
+  },
+  "utt_157305": {
+    "clip_id": "157305",
+    "speaker": "F2036",
+    "major": [
+      "ANXIETY",
+      "SAD"
+    ],
+    "sub": [
+      "SYMPATHY"
+    ]
+  },
+  "utt_157477": {
+    "clip_id": "157477",
+    "speaker": "F2037",
+    "major": [
+      "NEUTRAL"
+    ],
+    "sub": [
+      "CONTEMPLATION"
+    ]
+  },
+  "utt_158374": {
+    "clip_id": "158374",
+    "speaker": "F2042",
+    "major": [
+      "ANGRY"
+    ],
+    "sub": [
+      "FRUSTRATION"
+    ]
+  },
+  "utt_162193": {
+    "clip_id": "162193",
+    "speaker": "F2066",
+    "major": [
+      "ANXIETY",
+      "SURPRISE"
+    ],
+    "sub": [
+      "AWKWARDNESS"
+    ]
+  },
+  "utt_164843": {
+    "clip_id": "164843",
+    "speaker": "F3010",
+    "major": [
+      "ANGRY"
+    ],
+    "sub": [
+      "FRUSTRATION"
+    ]
+  },
+  "utt_165010": {
+    "clip_id": "165010",
+    "speaker": "F3011",
+    "major": [
+      "ANGRY"
+    ],
+    "sub": [
+      "FRUSTRATION"
+    ]
+  },
+  "utt_166316": {
+    "clip_id": "166316",
+    "speaker": "F3019",
+    "major": [
+      "ANGRY"
+    ],
+    "sub": [
+      "FRUSTRATION"
+    ]
+  },
+  "utt_168713": {
+    "clip_id": "168713",
+    "speaker": "F3034",
+    "major": [
+      "SURPRISE"
+    ],
+    "sub": [
+      "SURPRISE_NEGATIVE"
+    ]
+  },
+  "utt_169364": {
+    "clip_id": "169364",
+    "speaker": "F3038",
+    "major": [
+      "NEUTRAL",
+      "SURPRISE"
+    ],
+    "sub": [
+      "FEAR",
+      "INTEREST",
+      "SURPRISE_NEGATIVE"
+    ]
+  },
+  "utt_171207": {
+    "clip_id": "171207",
+    "speaker": "F3050",
+    "major": [
+      "SAD"
+    ],
+    "sub": [
+      "SADNESS"
+    ]
+  },
+  "utt_177965": {
+    "clip_id": "177965",
+    "speaker": "F4026",
+    "major": [
+      "ANGRY"
+    ],
+    "sub": [
+      "ANGER",
+      "FRUSTRATION"
+    ]
+  },
+  "utt_181478": {
+    "clip_id": "181478",
+    "speaker": "F4048",
+    "major": [
+      "SAD"
+    ],
+    "sub": [
+      "SADNESS"
+    ]
+  },
+  "utt_183250": {
+    "clip_id": "183250",
+    "speaker": "F5007",
+    "major": [
+      "ANGRY"
+    ],
+    "sub": [
+      "FRUSTRATION"
+    ]
+  },
+  "utt_185022": {
+    "clip_id": "185022",
+    "speaker": "F5018",
+    "major": [
+      "ANGRY"
+    ],
+    "sub": [
+      "FRUSTRATION"
+    ]
+  },
+  "utt_187817": {
+    "clip_id": "187817",
+    "speaker": "F5035",
+    "major": [
+      "ANGRY",
+      "NEUTRAL"
+    ],
+    "sub": [
+      "FRUSTRATION"
+    ]
+  },
+  "utt_188415": {
+    "clip_id": "188415",
+    "speaker": "F5039",
+    "major": [
+      "NEUTRAL"
+    ],
+    "sub": [
+      "CALMNESS",
+      "EMBARRASSMENT"
+    ]
+  },
+  "utt_194613": {
+    "clip_id": "194613",
+    "speaker": "M2020",
+    "major": [
+      "ANGRY"
+    ],
+    "sub": [
+      "DOUBT",
+      "FRUSTRATION",
+      "SURPRISE_NEGATIVE"
+    ]
+  },
+  "utt_199450": {
+    "clip_id": "199450",
+    "speaker": "M2050",
+    "major": [
+      "ANGRY"
+    ],
+    "sub": [
+      "FRUSTRATION"
+    ]
+  },
+  "utt_200597": {
+    "clip_id": "200597",
+    "speaker": "M2057",
+    "major": [
+      "ANXIETY",
+      "SAD"
+    ],
+    "sub": [
+      "EMBARRASSMENT"
+    ]
+  },
+  "utt_201048": {
+    "clip_id": "201048",
+    "speaker": "M2060",
+    "major": [
+      "ANGRY"
+    ],
+    "sub": [
+      "CONTEMPT",
+      "DOUBT"
+    ]
+  },
+  "utt_203388": {
+    "clip_id": "203388",
+    "speaker": "M3013",
+    "major": [
+      "ANGRY",
+      "SURPRISE"
+    ],
+    "sub": [
+      "FRUSTRATION",
+      "SURPRISE_NEGATIVE"
+    ]
+  },
+  "utt_204502": {
+    "clip_id": "204502",
+    "speaker": "M3020",
+    "major": [
+      "HAPPY"
+    ],
+    "sub": [
+      "ADMIRATION",
+      "JOY"
+    ]
+  },
+  "utt_207054": {
+    "clip_id": "207054",
+    "speaker": "M3036",
+    "major": [
+      "HAPPY"
+    ],
+    "sub": [
+      "EXCITEMENT",
+      "PRIDE"
+    ]
+  },
+  "utt_210138": {
+    "clip_id": "210138",
+    "speaker": "M3055",
+    "major": [
+      "ANGRY"
+    ],
+    "sub": [
+      "ANGER"
+    ]
+  },
+  "utt_211045": {
+    "clip_id": "211045",
+    "speaker": "M3061",
+    "major": [
+      "SAD"
+    ],
+    "sub": [
+      "ANXIETY_GENERAL",
+      "EMBARRASSMENT",
+      "GUILT",
+      "SADNESS",
+      "SHAME"
+    ]
+  },
+  "utt_211869": {
+    "clip_id": "211869",
+    "speaker": "M3066",
+    "major": [
+      "ANXIETY"
+    ],
+    "sub": [
+      "ANXIETY_GENERAL"
+    ]
+  },
+  "utt_212412": {
+    "clip_id": "212412",
+    "speaker": "M3069",
+    "major": [
+      "HAPPY"
+    ],
+    "sub": [
+      "CALMNESS"
+    ]
+  },
+  "utt_213668": {
+    "clip_id": "213668",
+    "speaker": "M4007",
+    "major": [
+      "ANXIETY"
+    ],
+    "sub": [
+      "ANXIETY_GENERAL",
+      "CONFUSION",
+      "DOUBT",
+      "EMBARRASSMENT"
+    ]
+  },
+  "utt_214566": {
+    "clip_id": "214566",
+    "speaker": "M4013",
+    "major": [
+      "NEUTRAL"
+    ],
+    "sub": [
+      "BOREDOM"
+    ]
+  },
+  "utt_218409": {
+    "clip_id": "218409",
+    "speaker": "M4037",
+    "major": [
+      "SAD"
+    ],
+    "sub": [
+      "SADNESS",
+      "TIREDNESS"
+    ]
+  },
+  "utt_221452": {
+    "clip_id": "221452",
+    "speaker": "M4056",
+    "major": [
+      "ANXIETY"
+    ],
+    "sub": [
+      "ANXIETY_GENERAL"
+    ]
+  },
+  "utt_223307": {
+    "clip_id": "223307",
+    "speaker": "M5008",
+    "major": [
+      "ANGRY"
+    ],
+    "sub": [
+      "FRUSTRATION"
+    ]
+  },
+  "utt_225377": {
+    "clip_id": "225377",
+    "speaker": "M5021",
+    "major": [
+      "NEUTRAL"
+    ],
+    "sub": [
+      "CALMNESS"
+    ]
+  },
+  "utt_228414": {
+    "clip_id": "228414",
+    "speaker": "M5040",
+    "major": [
+      "HAPPY"
+    ],
+    "sub": [
+      "PRIDE"
+    ]
+  },
+  "utt_228981": {
+    "clip_id": "228981",
+    "speaker": "M5044",
+    "major": [
+      "HAPPY"
+    ],
+    "sub": [
+      "AMUSEMENT",
+      "JOY"
+    ]
+  },
+  "utt_230635": {
+    "clip_id": "230635",
+    "speaker": "M5055",
+    "major": [
+      "ANGRY"
+    ],
+    "sub": [
+      "FRUSTRATION"
+    ]
+  },
+  "utt_231185": {
+    "clip_id": "231185",
+    "speaker": "M6001",
+    "major": [
+      "ANXIETY"
+    ],
+    "sub": [
+      "ANXIETY_GENERAL"
+    ]
+  }
+}
