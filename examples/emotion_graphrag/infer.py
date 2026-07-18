@@ -16,6 +16,7 @@ from __future__ import annotations
 import asyncio
 import json
 import os
+import re
 from functools import partial
 
 import ollama
@@ -145,6 +146,51 @@ async def llm_judge(utterance: str, emotion: str) -> bool:
                  "num_ctx": int(os.getenv("OLLAMA_LLM_NUM_CTX", "32768"))},
     )
     return "YES" in resp.get("response", "").upper()
+
+
+async def llm_judge_batch(utterance: str, detected: set, candidates: list) -> dict:
+    """Judge v2 — one call, all candidates, with evidence, returns confidences.
+
+    Improvements over llm_judge (v1):
+      - selection-type: all candidates judged together (comparative context)
+      - evidence injection (RAG): each candidate carries its graph/situational
+        grounding, so the LLM isn't guessing blind
+      - confidence score (0~1) instead of binary → threshold is tunable
+
+    Returns {emotion: confidence}. Missing/unparsed emotions default to 0.0.
+    """
+    if not candidates:
+        return {}
+    det_kr = ", ".join(f"{d}({schema.SUB_KR.get(d, d)})" for d in detected)
+    lines = []
+    for c in candidates:
+        kr = schema.SUB_KR.get(c.emotion, c.emotion)
+        ev = []
+        if getattr(c, "graph_weight", 0) > 0:
+            ev.append("확인된 감정과 자주 동반")
+        if getattr(c, "sit", 0) > 0:
+            ev.append("유사 발화에서 관찰")
+        lines.append(f"- {c.emotion}({kr}): {' / '.join(ev) or '후보'}")
+    prompt = (
+        f'발화: "{utterance}"\n'
+        f'이미 음성으로 확인된 감정: {det_kr}\n\n'
+        f'감정은 복합적일 수 있습니다. 아래 후보 감정들이 이 발화에 함께 담겨 있는지 '
+        f'각각 0.0~1.0 확신도로 평가하세요. 근거가 있으면 인정하고, 없으면 낮게 주세요.\n'
+        f'후보:\n' + "\n".join(lines) + "\n\n"
+        f'각 후보를 한 줄씩 "코드=확신도" 형식으로만 출력. 예: FRUSTRATION=0.8'
+    )
+    client = ollama.AsyncClient(host=_LLM_HOST)
+    resp = await client.generate(
+        model=_LLM_MODEL, prompt=prompt,
+        options={"temperature": 0.2,
+                 "num_ctx": int(os.getenv("OLLAMA_LLM_NUM_CTX", "32768"))},
+    )
+    text = resp.get("response", "")
+    out = {}
+    for c in candidates:
+        m = re.search(rf"{re.escape(c.emotion)}\s*[=:]\s*(0?\.\d+|1(?:\.0+)?|0|1)", text)
+        out[c.emotion] = float(m.group(1)) if m else 0.0
+    return out
 
 
 # --- main correction --------------------------------------------------------

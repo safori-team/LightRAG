@@ -22,7 +22,10 @@ WILSON_Z = 1.28         # 80% lower bound (lenient for small data)
 SIT_TOPK = 8            # neighbours retrieved for situational scoring
 SIGMA_SIT = 0.25        # situational candidate cut
 LAMBDA_SIT = 0.5        # weight of situational signal in fused score
-CANDIDATE_TOP_K = 5     # max candidates handed to the judge
+# Under the target/acceptable metric, surfacing more plausible candidates is
+# no longer penalised (minority-supported adds count as acceptable), so we
+# widen the candidate pool handed to the judge.
+CANDIDATE_TOP_K = 8     # was 5
 
 # Personalization (layer 2, deferred until repeated speakers exist)
 BOOST_ALPHA = 0.35
