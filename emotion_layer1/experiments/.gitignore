@@ -2,6 +2,8 @@
 */gold_text.jsonl
 */with_transcripts.jsonl
 */missing_transcripts.jsonl
+*/labeling_report.html
+*/labeling_metrics.json
 */gemini_outputs.jsonl
 */graph_candidates.jsonl
 */comparison.jsonl
