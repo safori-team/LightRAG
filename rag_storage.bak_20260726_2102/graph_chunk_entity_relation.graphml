@@ -1,0 +1,1269 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d6" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d5" for="edge" attr.name="description" attr.type="string"/>
+<key id="d4" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d3" for="edge" attr.name="keywords" attr.type="string"/>
+<key id="d2" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d1" for="node" attr.name="description" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_type" attr.type="string"/>
+<graph edgedefault="undirected"><node id="HAPPY">
+  <data key="d0">EmotionMajor</data>
+  <data key="d1">기쁨 (대분류)</data>
+  <data key="d2">taxonomy</data>
+</node>
+<node id="JOY">
+  <data key="d0">EmotionMinor</data>
+  <data key="d1">기쁨 (대분류: 기쁨 HAPPY)</data>
+  <data key="d2">taxonomy</data>
+</node>
+<node id="ECSTASY">
+  <data key="d0">EmotionMinor</data>
+  <data key="d1">황홀 (대분류: 기쁨 HAPPY)</data>
+  <data key="d2">taxonomy</data>
+</node>
+<node id="CONTENTMENT">
+  <data key="d0">EmotionMinor</data>
+  <data key="d1">흐뭇함 (대분류: 기쁨 HAPPY)</data>
+  <data key="d2">taxonomy</data>
+</node>
+<node id="SATISFACTION">
+  <data key="d0">EmotionMinor</data>
+  <data key="d1">만족 (대분류: 기쁨 HAPPY)</data>
+  <data key="d2">taxonomy</data>
+</node>
+<node id="AMUSEMENT">
+  <data key="d0">EmotionMinor</data>
+  <data key="d1">즐거움 (대분류: 기쁨 HAPPY)</data>
+  <data key="d2">taxonomy</data>
+</node>
+<node id="EXCITEMENT">
+  <data key="d0">EmotionMinor</data>
+  <data key="d1">신남 (대분류: 기쁨 HAPPY)</data>
+  <data key="d2">taxonomy</data>
+</node>
+<node id="PRIDE">
+  <data key="d0">EmotionMinor</data>
+  <data key="d1">자부심 (대분류: 기쁨 HAPPY)</data>
+  <data key="d2">taxonomy</data>
+</node>
+<node id="TRIUMPH">
+  <data key="d0">EmotionMinor</data>
+  <data key="d1">승리감 (대분류: 기쁨 HAPPY)</data>
+  <data key="d2">taxonomy</data>
+</node>
+<node id="RELIEF">
+  <data key="d0">EmotionMinor</data>
+  <data key="d1">안도 (대분류: 기쁨 HAPPY)</data>
+  <data key="d2">taxonomy</data>
+</node>
+<node id="ADMIRATION">
+  <data key="d0">EmotionMinor</data>
+  <data key="d1">감탄 (대분류: 기쁨 HAPPY)</data>
+  <data key="d2">taxonomy</data>
+</node>
+<node id="ADORATION">
+  <data key="d0">EmotionMinor</data>
+  <data key="d1">흠모 (대분류: 기쁨 HAPPY)</data>
+  <data key="d2">taxonomy</data>
+</node>
+<node id="LOVE">
+  <data key="d0">EmotionMinor</data>
+  <data key="d1">사랑 (대분류: 기쁨 HAPPY)</data>
+  <data key="d2">taxonomy</data>
+</node>
+<node id="ROMANCE">
+  <data key="d0">EmotionMinor</data>
+  <data key="d1">설렘 (대분류: 기쁨 HAPPY)</data>
+  <data key="d2">taxonomy</data>
+</node>
+<node id="ENTRANCEMENT">
+  <data key="d0">EmotionMinor</data>
+  <data key="d1">매혹 (대분류: 기쁨 HAPPY)</data>
+  <data key="d2">taxonomy</data>
+</node>
+<node id="AESTHETIC_APPRECIATION">
+  <data key="d0">EmotionMinor</data>
+  <data key="d1">심미적 감상 (대분류: 기쁨 HAPPY)</data>
+  <data key="d2">taxonomy</data>
+</node>
+<node id="DETERMINATION">
+  <data key="d0">EmotionMinor</data>
+  <data key="d1">결의 (대분류: 기쁨 HAPPY)</data>
+  <data key="d2">taxonomy</data>
+</node>
+<node id="SAD">
+  <data key="d0">EmotionMajor</data>
+  <data key="d1">슬픔 (대분류)</data>
+  <data key="d2">taxonomy</data>
+</node>
+<node id="SADNESS">
+  <data key="d0">EmotionMinor</data>
+  <data key="d1">슬픔 (대분류: 슬픔 SAD)</data>
+  <data key="d2">taxonomy</data>
+</node>
+<node id="DISTRESS">
+  <data key="d0">EmotionMinor</data>
+  <data key="d1">괴로움 (대분류: 슬픔 SAD)</data>
+  <data key="d2">taxonomy</data>
+</node>
+<node id="DISAPPOINTMENT">
+  <data key="d0">EmotionMinor</data>
+  <data key="d1">실망 (대분류: 슬픔 SAD)</data>
+  <data key="d2">taxonomy</data>
+</node>
+<node id="GUILT">
+  <data key="d0">EmotionMinor</data>
+  <data key="d1">죄책감 (대분류: 슬픔 SAD)</data>
+  <data key="d2">taxonomy</data>
+</node>
+<node id="SHAME">
+  <data key="d0">EmotionMinor</data>
+  <data key="d1">수치심 (대분류: 슬픔 SAD)</data>
+  <data key="d2">taxonomy</data>
+</node>
+<node id="EMBARRASSMENT">
+  <data key="d0">EmotionMinor</data>
+  <data key="d1">민망함 (대분류: 슬픔 SAD)</data>
+  <data key="d2">taxonomy</data>
+</node>
+<node id="EMPATHIC_PAIN">
+  <data key="d0">EmotionMinor</data>
+  <data key="d1">공감적 고통 (대분류: 슬픔 SAD)</data>
+  <data key="d2">taxonomy</data>
+</node>
+<node id="SYMPATHY">
+  <data key="d0">EmotionMinor</data>
+  <data key="d1">연민 (대분류: 슬픔 SAD)</data>
+  <data key="d2">taxonomy</data>
+</node>
+<node id="LONELINESS">
+  <data key="d0">EmotionMinor</data>
+  <data key="d1">외로움 (대분류: 슬픔 SAD)</data>
+  <data key="d2">taxonomy</data>
+</node>
+<node id="ANGRY">
+  <data key="d0">EmotionMajor</data>
+  <data key="d1">분노 (대분류)</data>
+  <data key="d2">taxonomy</data>
+</node>
+<node id="ANGER">
+  <data key="d0">EmotionMinor</data>
+  <data key="d1">분노 (대분류: 분노 ANGRY)</data>
+  <data key="d2">taxonomy</data>
+</node>
+<node id="CONTEMPT">
+  <data key="d0">EmotionMinor</data>
+  <data key="d1">경멸 (대분류: 분노 ANGRY)</data>
+  <data key="d2">taxonomy</data>
+</node>
+<node id="DISGUST">
+  <data key="d0">EmotionMinor</data>
+  <data key="d1">혐오 (대분류: 분노 ANGRY)</data>
+  <data key="d2">taxonomy</data>
+</node>
+<node id="FRUSTRATION">
+  <data key="d0">EmotionMinor</data>
+  <data key="d1">좌절 (대분류: 분노 ANGRY)</data>
+  <data key="d2">taxonomy</data>
+</node>
+<node id="ENVY">
+  <data key="d0">EmotionMinor</data>
+  <data key="d1">시기 (대분류: 분노 ANGRY)</data>
+  <data key="d2">taxonomy</data>
+</node>
+<node id="CRAVING">
+  <data key="d0">EmotionMinor</data>
+  <data key="d1">갈망 (대분류: 분노 ANGRY)</data>
+  <data key="d2">taxonomy</data>
+</node>
+<node id="ANXIETY">
+  <data key="d0">EmotionMajor</data>
+  <data key="d1">불안 (대분류)</data>
+  <data key="d2">taxonomy</data>
+</node>
+<node id="FEAR">
+  <data key="d0">EmotionMinor</data>
+  <data key="d1">두려움 (대분류: 불안 ANXIETY)</data>
+  <data key="d2">taxonomy</data>
+</node>
+<node id="ANXIETY_GENERAL">
+  <data key="d0">EmotionMinor</data>
+  <data key="d1">불안 (대분류: 불안 ANXIETY)</data>
+  <data key="d2">taxonomy</data>
+</node>
+<node id="HORROR">
+  <data key="d0">EmotionMinor</data>
+  <data key="d1">공포 (대분류: 불안 ANXIETY)</data>
+  <data key="d2">taxonomy</data>
+</node>
+<node id="SURPRISE">
+  <data key="d0">EmotionMajor</data>
+  <data key="d1">놀람 (대분류)</data>
+  <data key="d2">taxonomy</data>
+</node>
+<node id="SURPRISE_POSITIVE">
+  <data key="d0">EmotionMinor</data>
+  <data key="d1">긍정적 놀람 (대분류: 놀람 SURPRISE)</data>
+  <data key="d2">taxonomy</data>
+</node>
+<node id="SURPRISE_NEGATIVE">
+  <data key="d0">EmotionMinor</data>
+  <data key="d1">부정적 놀람 (대분류: 놀람 SURPRISE)</data>
+  <data key="d2">taxonomy</data>
+</node>
+<node id="AWE">
+  <data key="d0">EmotionMinor</data>
+  <data key="d1">경외 (대분류: 놀람 SURPRISE)</data>
+  <data key="d2">taxonomy</data>
+</node>
+<node id="AWKWARDNESS">
+  <data key="d0">EmotionMinor</data>
+  <data key="d1">어색함 (대분류: 놀람 SURPRISE)</data>
+  <data key="d2">taxonomy</data>
+</node>
+<node id="NEUTRAL">
+  <data key="d0">EmotionMajor</data>
+  <data key="d1">중립 (대분류)</data>
+  <data key="d2">taxonomy</data>
+</node>
+<node id="CALMNESS">
+  <data key="d0">EmotionMinor</data>
+  <data key="d1">평온 (대분류: 중립 NEUTRAL)</data>
+  <data key="d2">taxonomy</data>
+</node>
+<node id="CONTEMPLATION">
+  <data key="d0">EmotionMinor</data>
+  <data key="d1">사색 (대분류: 중립 NEUTRAL)</data>
+  <data key="d2">taxonomy</data>
+</node>
+<node id="CONCENTRATION">
+  <data key="d0">EmotionMinor</data>
+  <data key="d1">집중 (대분류: 중립 NEUTRAL)</data>
+  <data key="d2">taxonomy</data>
+</node>
+<node id="INTEREST">
+  <data key="d0">EmotionMinor</data>
+  <data key="d1">흥미 (대분류: 중립 NEUTRAL)</data>
+  <data key="d2">taxonomy</data>
+</node>
+<node id="REALIZATION">
+  <data key="d0">EmotionMinor</data>
+  <data key="d1">깨달음 (대분류: 중립 NEUTRAL)</data>
+  <data key="d2">taxonomy</data>
+</node>
+<node id="BOREDOM">
+  <data key="d0">EmotionMinor</data>
+  <data key="d1">지루함 (대분류: 중립 NEUTRAL)</data>
+  <data key="d2">taxonomy</data>
+</node>
+<node id="TIREDNESS">
+  <data key="d0">EmotionMinor</data>
+  <data key="d1">피로 (대분류: 중립 NEUTRAL)</data>
+  <data key="d2">taxonomy</data>
+</node>
+<node id="CONFUSION">
+  <data key="d0">EmotionMinor</data>
+  <data key="d1">혼란 (대분류: 중립 NEUTRAL)</data>
+  <data key="d2">taxonomy</data>
+</node>
+<node id="DOUBT">
+  <data key="d0">EmotionMinor</data>
+  <data key="d1">의심 (대분류: 중립 NEUTRAL)</data>
+  <data key="d2">taxonomy</data>
+</node>
+<node id="NOSTALGIA">
+  <data key="d0">EmotionMinor</data>
+  <data key="d1">향수 (대분류: 중립 NEUTRAL)</data>
+  <data key="d2">taxonomy</data>
+</node>
+<edge source="HAPPY" target="JOY">
+  <data key="d3">belongs_to</data>
+  <data key="d4">1.0</data>
+  <data key="d5">감정 분류체계 소속 관계</data>
+  <data key="d6">taxonomy</data>
+</edge>
+<edge source="HAPPY" target="ECSTASY">
+  <data key="d3">belongs_to</data>
+  <data key="d4">1.0</data>
+  <data key="d5">감정 분류체계 소속 관계</data>
+  <data key="d6">taxonomy</data>
+</edge>
+<edge source="HAPPY" target="CONTENTMENT">
+  <data key="d3">belongs_to</data>
+  <data key="d4">1.0</data>
+  <data key="d5">감정 분류체계 소속 관계</data>
+  <data key="d6">taxonomy</data>
+</edge>
+<edge source="HAPPY" target="SATISFACTION">
+  <data key="d3">belongs_to</data>
+  <data key="d4">1.0</data>
+  <data key="d5">감정 분류체계 소속 관계</data>
+  <data key="d6">taxonomy</data>
+</edge>
+<edge source="HAPPY" target="AMUSEMENT">
+  <data key="d3">belongs_to</data>
+  <data key="d4">1.0</data>
+  <data key="d5">감정 분류체계 소속 관계</data>
+  <data key="d6">taxonomy</data>
+</edge>
+<edge source="HAPPY" target="EXCITEMENT">
+  <data key="d3">belongs_to</data>
+  <data key="d4">1.0</data>
+  <data key="d5">감정 분류체계 소속 관계</data>
+  <data key="d6">taxonomy</data>
+</edge>
+<edge source="HAPPY" target="PRIDE">
+  <data key="d3">belongs_to</data>
+  <data key="d4">1.0</data>
+  <data key="d5">감정 분류체계 소속 관계</data>
+  <data key="d6">taxonomy</data>
+</edge>
+<edge source="HAPPY" target="TRIUMPH">
+  <data key="d3">belongs_to</data>
+  <data key="d4">1.0</data>
+  <data key="d5">감정 분류체계 소속 관계</data>
+  <data key="d6">taxonomy</data>
+</edge>
+<edge source="HAPPY" target="RELIEF">
+  <data key="d3">belongs_to</data>
+  <data key="d4">1.0</data>
+  <data key="d5">감정 분류체계 소속 관계</data>
+  <data key="d6">taxonomy</data>
+</edge>
+<edge source="HAPPY" target="ADMIRATION">
+  <data key="d3">belongs_to</data>
+  <data key="d4">1.0</data>
+  <data key="d5">감정 분류체계 소속 관계</data>
+  <data key="d6">taxonomy</data>
+</edge>
+<edge source="HAPPY" target="ADORATION">
+  <data key="d3">belongs_to</data>
+  <data key="d4">1.0</data>
+  <data key="d5">감정 분류체계 소속 관계</data>
+  <data key="d6">taxonomy</data>
+</edge>
+<edge source="HAPPY" target="LOVE">
+  <data key="d3">belongs_to</data>
+  <data key="d4">1.0</data>
+  <data key="d5">감정 분류체계 소속 관계</data>
+  <data key="d6">taxonomy</data>
+</edge>
+<edge source="HAPPY" target="ROMANCE">
+  <data key="d3">belongs_to</data>
+  <data key="d4">1.0</data>
+  <data key="d5">감정 분류체계 소속 관계</data>
+  <data key="d6">taxonomy</data>
+</edge>
+<edge source="HAPPY" target="ENTRANCEMENT">
+  <data key="d3">belongs_to</data>
+  <data key="d4">1.0</data>
+  <data key="d5">감정 분류체계 소속 관계</data>
+  <data key="d6">taxonomy</data>
+</edge>
+<edge source="HAPPY" target="AESTHETIC_APPRECIATION">
+  <data key="d3">belongs_to</data>
+  <data key="d4">1.0</data>
+  <data key="d5">감정 분류체계 소속 관계</data>
+  <data key="d6">taxonomy</data>
+</edge>
+<edge source="HAPPY" target="DETERMINATION">
+  <data key="d3">belongs_to</data>
+  <data key="d4">1.0</data>
+  <data key="d5">감정 분류체계 소속 관계</data>
+  <data key="d6">taxonomy</data>
+</edge>
+<edge source="JOY" target="EXCITEMENT">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.17</data>
+  <data key="d5">신남과(와) 기쁨 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="JOY" target="PRIDE">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.15</data>
+  <data key="d5">자부심과(와) 기쁨 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="JOY" target="CONTENTMENT">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.4</data>
+  <data key="d5">기쁨과(와) 흐뭇함 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="JOY" target="ADMIRATION">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.23</data>
+  <data key="d5">감탄과(와) 기쁨 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="JOY" target="SATISFACTION">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.51</data>
+  <data key="d5">만족과(와) 기쁨 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="JOY" target="LOVE">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.08</data>
+  <data key="d5">사랑과(와) 기쁨 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="JOY" target="CALMNESS">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.08</data>
+  <data key="d5">기쁨과(와) 평온 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="JOY" target="AMUSEMENT">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.29</data>
+  <data key="d5">즐거움과(와) 기쁨 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="CONTENTMENT" target="SATISFACTION">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.75</data>
+  <data key="d5">만족과(와) 흐뭇함 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="CONTENTMENT" target="CALMNESS">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.11</data>
+  <data key="d5">평온과(와) 흐뭇함 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="CONTENTMENT" target="PRIDE">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.11</data>
+  <data key="d5">자부심과(와) 흐뭇함 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="CONTENTMENT" target="EXCITEMENT">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.11</data>
+  <data key="d5">신남과(와) 흐뭇함 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="CONTENTMENT" target="INTEREST">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.11</data>
+  <data key="d5">흥미과(와) 흐뭇함 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="CONTENTMENT" target="ADMIRATION">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.23</data>
+  <data key="d5">감탄과(와) 흐뭇함 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="CONTENTMENT" target="AMUSEMENT">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.11</data>
+  <data key="d5">즐거움과(와) 흐뭇함 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="SATISFACTION" target="ADMIRATION">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.23</data>
+  <data key="d5">감탄과(와) 만족 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="SATISFACTION" target="AMUSEMENT">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.18</data>
+  <data key="d5">즐거움과(와) 만족 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="AMUSEMENT" target="EXCITEMENT">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.4</data>
+  <data key="d5">신남과(와) 즐거움 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="AMUSEMENT" target="PRIDE">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.2</data>
+  <data key="d5">즐거움과(와) 자부심 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="AMUSEMENT" target="LOVE">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.11</data>
+  <data key="d5">사랑과(와) 즐거움 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="AMUSEMENT" target="CALMNESS">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.11</data>
+  <data key="d5">평온과(와) 즐거움 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="EXCITEMENT" target="PRIDE">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.35</data>
+  <data key="d5">신남과(와) 자부심 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="EXCITEMENT" target="INTEREST">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.1</data>
+  <data key="d5">흥미과(와) 신남 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="EXCITEMENT" target="LOVE">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.17</data>
+  <data key="d5">신남과(와) 사랑 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="PRIDE" target="CALMNESS">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.09</data>
+  <data key="d5">평온과(와) 자부심 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="PRIDE" target="LOVE">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.15</data>
+  <data key="d5">자부심과(와) 사랑 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="PRIDE" target="DETERMINATION">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.17</data>
+  <data key="d5">결의과(와) 자부심 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="ADMIRATION" target="AESTHETIC_APPRECIATION">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.65</data>
+  <data key="d5">심미적 감상과(와) 감탄 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="ADORATION" target="LOVE">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.23</data>
+  <data key="d5">흠모과(와) 사랑 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="LOVE" target="SYMPATHY">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.14</data>
+  <data key="d5">연민과(와) 사랑 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="LOVE" target="EMPATHIC_PAIN">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.14</data>
+  <data key="d5">사랑과(와) 공감적 고통 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="LOVE" target="CONTEMPLATION">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.08</data>
+  <data key="d5">사랑과(와) 사색 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="LOVE" target="CALMNESS">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.21</data>
+  <data key="d5">사랑과(와) 평온 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="LOVE" target="REALIZATION">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.09</data>
+  <data key="d5">사랑과(와) 깨달음 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="ENTRANCEMENT" target="INTEREST">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.55</data>
+  <data key="d5">흥미과(와) 매혹 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="DETERMINATION" target="CONCENTRATION">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.26</data>
+  <data key="d5">집중과(와) 결의 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="DETERMINATION" target="CALMNESS">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.1</data>
+  <data key="d5">평온과(와) 결의 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="SAD" target="SADNESS">
+  <data key="d3">belongs_to</data>
+  <data key="d4">1.0</data>
+  <data key="d5">감정 분류체계 소속 관계</data>
+  <data key="d6">taxonomy</data>
+</edge>
+<edge source="SAD" target="DISTRESS">
+  <data key="d3">belongs_to</data>
+  <data key="d4">1.0</data>
+  <data key="d5">감정 분류체계 소속 관계</data>
+  <data key="d6">taxonomy</data>
+</edge>
+<edge source="SAD" target="DISAPPOINTMENT">
+  <data key="d3">belongs_to</data>
+  <data key="d4">1.0</data>
+  <data key="d5">감정 분류체계 소속 관계</data>
+  <data key="d6">taxonomy</data>
+</edge>
+<edge source="SAD" target="GUILT">
+  <data key="d3">belongs_to</data>
+  <data key="d4">1.0</data>
+  <data key="d5">감정 분류체계 소속 관계</data>
+  <data key="d6">taxonomy</data>
+</edge>
+<edge source="SAD" target="SHAME">
+  <data key="d3">belongs_to</data>
+  <data key="d4">1.0</data>
+  <data key="d5">감정 분류체계 소속 관계</data>
+  <data key="d6">taxonomy</data>
+</edge>
+<edge source="SAD" target="EMBARRASSMENT">
+  <data key="d3">belongs_to</data>
+  <data key="d4">1.0</data>
+  <data key="d5">감정 분류체계 소속 관계</data>
+  <data key="d6">taxonomy</data>
+</edge>
+<edge source="SAD" target="EMPATHIC_PAIN">
+  <data key="d3">belongs_to</data>
+  <data key="d4">1.0</data>
+  <data key="d5">감정 분류체계 소속 관계</data>
+  <data key="d6">taxonomy</data>
+</edge>
+<edge source="SAD" target="SYMPATHY">
+  <data key="d3">belongs_to</data>
+  <data key="d4">1.0</data>
+  <data key="d5">감정 분류체계 소속 관계</data>
+  <data key="d6">taxonomy</data>
+</edge>
+<edge source="SAD" target="LONELINESS">
+  <data key="d3">belongs_to</data>
+  <data key="d4">1.0</data>
+  <data key="d5">감정 분류체계 소속 관계</data>
+  <data key="d6">taxonomy</data>
+</edge>
+<edge source="SADNESS" target="SYMPATHY">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.23</data>
+  <data key="d5">연민과(와) 슬픔 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="SADNESS" target="DISAPPOINTMENT">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.06</data>
+  <data key="d5">슬픔과(와) 실망 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="SADNESS" target="LONELINESS">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.43</data>
+  <data key="d5">슬픔과(와) 외로움 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="SADNESS" target="DISTRESS">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.37</data>
+  <data key="d5">괴로움과(와) 슬픔 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="SADNESS" target="ANXIETY_GENERAL">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.25</data>
+  <data key="d5">슬픔과(와) 불안 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="SADNESS" target="EMBARRASSMENT">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.25</data>
+  <data key="d5">슬픔과(와) 민망함 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="SADNESS" target="GUILT">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.2</data>
+  <data key="d5">죄책감과(와) 슬픔 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="SADNESS" target="EMPATHIC_PAIN">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.24</data>
+  <data key="d5">슬픔과(와) 공감적 고통 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="SADNESS" target="TIREDNESS">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.08</data>
+  <data key="d5">피로과(와) 슬픔 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="SADNESS" target="SHAME">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.33</data>
+  <data key="d5">수치심과(와) 슬픔 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="DISTRESS" target="TIREDNESS">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.17</data>
+  <data key="d5">괴로움과(와) 피로 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="DISTRESS" target="SHAME">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.19</data>
+  <data key="d5">괴로움과(와) 수치심 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="DISTRESS" target="GUILT">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.2</data>
+  <data key="d5">괴로움과(와) 죄책감 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="DISTRESS" target="EMBARRASSMENT">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.17</data>
+  <data key="d5">괴로움과(와) 민망함 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="DISTRESS" target="CONFUSION">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.07</data>
+  <data key="d5">괴로움과(와) 혼란 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="DISTRESS" target="SURPRISE_NEGATIVE">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.07</data>
+  <data key="d5">괴로움과(와) 부정적 놀람 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="DISTRESS" target="EMPATHIC_PAIN">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.12</data>
+  <data key="d5">괴로움과(와) 공감적 고통 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="DISTRESS" target="SYMPATHY">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.07</data>
+  <data key="d5">괴로움과(와) 연민 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="DISAPPOINTMENT" target="EMBARRASSMENT">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.27</data>
+  <data key="d5">실망과(와) 민망함 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="DISAPPOINTMENT" target="FRUSTRATION">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.41</data>
+  <data key="d5">좌절과(와) 실망 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="DISAPPOINTMENT" target="ANGER">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.31</data>
+  <data key="d5">실망과(와) 분노 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="DISAPPOINTMENT" target="DISGUST">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.17</data>
+  <data key="d5">혐오과(와) 실망 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="DISAPPOINTMENT" target="EMPATHIC_PAIN">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.04</data>
+  <data key="d5">공감적 고통과(와) 실망 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="DISAPPOINTMENT" target="CONTEMPT">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.17</data>
+  <data key="d5">경멸과(와) 실망 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="DISAPPOINTMENT" target="DOUBT">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.11</data>
+  <data key="d5">의심과(와) 실망 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="GUILT" target="SHAME">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.4</data>
+  <data key="d5">수치심과(와) 죄책감 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="GUILT" target="ANXIETY_GENERAL">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.29</data>
+  <data key="d5">불안과(와) 죄책감 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="GUILT" target="EMBARRASSMENT">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.29</data>
+  <data key="d5">죄책감과(와) 민망함 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="SHAME" target="CONFUSION">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.07</data>
+  <data key="d5">혼란과(와) 수치심 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="SHAME" target="EMBARRASSMENT">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.33</data>
+  <data key="d5">수치심과(와) 민망함 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="EMBARRASSMENT" target="ANXIETY_GENERAL">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.34</data>
+  <data key="d5">불안과(와) 민망함 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="EMBARRASSMENT" target="FEAR">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.26</data>
+  <data key="d5">두려움과(와) 민망함 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="EMBARRASSMENT" target="AWKWARDNESS">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.24</data>
+  <data key="d5">어색함과(와) 민망함 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="EMBARRASSMENT" target="DOUBT">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.18</data>
+  <data key="d5">의심과(와) 민망함 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="EMBARRASSMENT" target="SURPRISE_NEGATIVE">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.24</data>
+  <data key="d5">부정적 놀람과(와) 민망함 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="EMBARRASSMENT" target="CONFUSION">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.35</data>
+  <data key="d5">혼란과(와) 민망함 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="EMBARRASSMENT" target="EMPATHIC_PAIN">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.16</data>
+  <data key="d5">공감적 고통과(와) 민망함 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="EMPATHIC_PAIN" target="SYMPATHY">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.43</data>
+  <data key="d5">연민과(와) 공감적 고통 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="EMPATHIC_PAIN" target="REALIZATION">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.15</data>
+  <data key="d5">깨달음과(와) 공감적 고통 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="EMPATHIC_PAIN" target="CONTEMPLATION">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.05</data>
+  <data key="d5">사색과(와) 공감적 고통 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="EMPATHIC_PAIN" target="CONFUSION">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.08</data>
+  <data key="d5">혼란과(와) 공감적 고통 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="SYMPATHY" target="CONTEMPLATION">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.05</data>
+  <data key="d5">연민과(와) 사색 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="SYMPATHY" target="ANXIETY_GENERAL">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.23</data>
+  <data key="d5">불안과(와) 연민 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="LONELINESS" target="ANXIETY_GENERAL">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.23</data>
+  <data key="d5">불안과(와) 외로움 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="ANGRY" target="ANGER">
+  <data key="d3">belongs_to</data>
+  <data key="d4">1.0</data>
+  <data key="d5">감정 분류체계 소속 관계</data>
+  <data key="d6">taxonomy</data>
+</edge>
+<edge source="ANGRY" target="CONTEMPT">
+  <data key="d3">belongs_to</data>
+  <data key="d4">1.0</data>
+  <data key="d5">감정 분류체계 소속 관계</data>
+  <data key="d6">taxonomy</data>
+</edge>
+<edge source="ANGRY" target="DISGUST">
+  <data key="d3">belongs_to</data>
+  <data key="d4">1.0</data>
+  <data key="d5">감정 분류체계 소속 관계</data>
+  <data key="d6">taxonomy</data>
+</edge>
+<edge source="ANGRY" target="FRUSTRATION">
+  <data key="d3">belongs_to</data>
+  <data key="d4">1.0</data>
+  <data key="d5">감정 분류체계 소속 관계</data>
+  <data key="d6">taxonomy</data>
+</edge>
+<edge source="ANGRY" target="ENVY">
+  <data key="d3">belongs_to</data>
+  <data key="d4">1.0</data>
+  <data key="d5">감정 분류체계 소속 관계</data>
+  <data key="d6">taxonomy</data>
+</edge>
+<edge source="ANGRY" target="CRAVING">
+  <data key="d3">belongs_to</data>
+  <data key="d4">1.0</data>
+  <data key="d5">감정 분류체계 소속 관계</data>
+  <data key="d6">taxonomy</data>
+</edge>
+<edge source="ANGER" target="CONTEMPT">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.51</data>
+  <data key="d5">경멸과(와) 분노 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="ANGER" target="FRUSTRATION">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.73</data>
+  <data key="d5">좌절과(와) 분노 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="ANGER" target="DISGUST">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.53</data>
+  <data key="d5">혐오과(와) 분노 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="ANGER" target="SURPRISE_NEGATIVE">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.14</data>
+  <data key="d5">부정적 놀람과(와) 분노 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="CONTEMPT" target="FRUSTRATION">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.74</data>
+  <data key="d5">경멸과(와) 좌절 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="CONTEMPT" target="DISGUST">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.65</data>
+  <data key="d5">경멸과(와) 혐오 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="CONTEMPT" target="SURPRISE_NEGATIVE">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.09</data>
+  <data key="d5">부정적 놀람과(와) 경멸 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="CONTEMPT" target="DOUBT">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.14</data>
+  <data key="d5">경멸과(와) 의심 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="DISGUST" target="FRUSTRATION">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.78</data>
+  <data key="d5">좌절과(와) 혐오 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="DISGUST" target="SURPRISE_NEGATIVE">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.08</data>
+  <data key="d5">혐오과(와) 부정적 놀람 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="DISGUST" target="DOUBT">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.14</data>
+  <data key="d5">의심과(와) 혐오 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="FRUSTRATION" target="SURPRISE_NEGATIVE">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.33</data>
+  <data key="d5">부정적 놀람과(와) 좌절 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="FRUSTRATION" target="ENVY">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.43</data>
+  <data key="d5">시기과(와) 좌절 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="ANXIETY" target="FEAR">
+  <data key="d3">belongs_to</data>
+  <data key="d4">1.0</data>
+  <data key="d5">감정 분류체계 소속 관계</data>
+  <data key="d6">taxonomy</data>
+</edge>
+<edge source="ANXIETY" target="ANXIETY_GENERAL">
+  <data key="d3">belongs_to</data>
+  <data key="d4">1.0</data>
+  <data key="d5">감정 분류체계 소속 관계</data>
+  <data key="d6">taxonomy</data>
+</edge>
+<edge source="ANXIETY" target="HORROR">
+  <data key="d3">belongs_to</data>
+  <data key="d4">1.0</data>
+  <data key="d5">감정 분류체계 소속 관계</data>
+  <data key="d6">taxonomy</data>
+</edge>
+<edge source="FEAR" target="ANXIETY_GENERAL">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.71</data>
+  <data key="d5">불안과(와) 두려움 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="FEAR" target="SURPRISE_NEGATIVE">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.12</data>
+  <data key="d5">부정적 놀람과(와) 두려움 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="FEAR" target="HORROR">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.32</data>
+  <data key="d5">두려움과(와) 공포 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="FEAR" target="CONFUSION">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.19</data>
+  <data key="d5">두려움과(와) 혼란 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="FEAR" target="AWKWARDNESS">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.05</data>
+  <data key="d5">두려움과(와) 어색함 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="ANXIETY_GENERAL" target="DOUBT">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.34</data>
+  <data key="d5">불안과(와) 의심 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="ANXIETY_GENERAL" target="CONFUSION">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.49</data>
+  <data key="d5">혼란과(와) 불안 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="ANXIETY_GENERAL" target="HORROR">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.32</data>
+  <data key="d5">불안과(와) 공포 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="SURPRISE" target="SURPRISE_POSITIVE">
+  <data key="d3">belongs_to</data>
+  <data key="d4">1.0</data>
+  <data key="d5">감정 분류체계 소속 관계</data>
+  <data key="d6">taxonomy</data>
+</edge>
+<edge source="SURPRISE" target="SURPRISE_NEGATIVE">
+  <data key="d3">belongs_to</data>
+  <data key="d4">1.0</data>
+  <data key="d5">감정 분류체계 소속 관계</data>
+  <data key="d6">taxonomy</data>
+</edge>
+<edge source="SURPRISE" target="AWE">
+  <data key="d3">belongs_to</data>
+  <data key="d4">1.0</data>
+  <data key="d5">감정 분류체계 소속 관계</data>
+  <data key="d6">taxonomy</data>
+</edge>
+<edge source="SURPRISE" target="AWKWARDNESS">
+  <data key="d3">belongs_to</data>
+  <data key="d4">1.0</data>
+  <data key="d5">감정 분류체계 소속 관계</data>
+  <data key="d6">taxonomy</data>
+</edge>
+<edge source="SURPRISE_NEGATIVE" target="CONFUSION">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.21</data>
+  <data key="d5">혼란과(와) 부정적 놀람 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="AWKWARDNESS" target="CONFUSION">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.14</data>
+  <data key="d5">혼란과(와) 어색함 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="AWKWARDNESS" target="DOUBT">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.14</data>
+  <data key="d5">의심과(와) 어색함 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="NEUTRAL" target="CALMNESS">
+  <data key="d3">belongs_to</data>
+  <data key="d4">1.0</data>
+  <data key="d5">감정 분류체계 소속 관계</data>
+  <data key="d6">taxonomy</data>
+</edge>
+<edge source="NEUTRAL" target="CONTEMPLATION">
+  <data key="d3">belongs_to</data>
+  <data key="d4">1.0</data>
+  <data key="d5">감정 분류체계 소속 관계</data>
+  <data key="d6">taxonomy</data>
+</edge>
+<edge source="NEUTRAL" target="CONCENTRATION">
+  <data key="d3">belongs_to</data>
+  <data key="d4">1.0</data>
+  <data key="d5">감정 분류체계 소속 관계</data>
+  <data key="d6">taxonomy</data>
+</edge>
+<edge source="NEUTRAL" target="INTEREST">
+  <data key="d3">belongs_to</data>
+  <data key="d4">1.0</data>
+  <data key="d5">감정 분류체계 소속 관계</data>
+  <data key="d6">taxonomy</data>
+</edge>
+<edge source="NEUTRAL" target="REALIZATION">
+  <data key="d3">belongs_to</data>
+  <data key="d4">1.0</data>
+  <data key="d5">감정 분류체계 소속 관계</data>
+  <data key="d6">taxonomy</data>
+</edge>
+<edge source="NEUTRAL" target="BOREDOM">
+  <data key="d3">belongs_to</data>
+  <data key="d4">1.0</data>
+  <data key="d5">감정 분류체계 소속 관계</data>
+  <data key="d6">taxonomy</data>
+</edge>
+<edge source="NEUTRAL" target="TIREDNESS">
+  <data key="d3">belongs_to</data>
+  <data key="d4">1.0</data>
+  <data key="d5">감정 분류체계 소속 관계</data>
+  <data key="d6">taxonomy</data>
+</edge>
+<edge source="NEUTRAL" target="CONFUSION">
+  <data key="d3">belongs_to</data>
+  <data key="d4">1.0</data>
+  <data key="d5">감정 분류체계 소속 관계</data>
+  <data key="d6">taxonomy</data>
+</edge>
+<edge source="NEUTRAL" target="DOUBT">
+  <data key="d3">belongs_to</data>
+  <data key="d4">1.0</data>
+  <data key="d5">감정 분류체계 소속 관계</data>
+  <data key="d6">taxonomy</data>
+</edge>
+<edge source="NEUTRAL" target="NOSTALGIA">
+  <data key="d3">belongs_to</data>
+  <data key="d4">1.0</data>
+  <data key="d5">감정 분류체계 소속 관계</data>
+  <data key="d6">taxonomy</data>
+</edge>
+<edge source="CALMNESS" target="CONCENTRATION">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.25</data>
+  <data key="d5">집중과(와) 평온 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="CALMNESS" target="INTEREST">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.23</data>
+  <data key="d5">흥미과(와) 평온 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="CALMNESS" target="REALIZATION">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.23</data>
+  <data key="d5">평온과(와) 깨달음 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="CALMNESS" target="CONTEMPLATION">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.29</data>
+  <data key="d5">평온과(와) 사색 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="CONTEMPLATION" target="CONCENTRATION">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.24</data>
+  <data key="d5">집중과(와) 사색 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="CONTEMPLATION" target="TIREDNESS">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.05</data>
+  <data key="d5">피로과(와) 사색 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="CONTEMPLATION" target="REALIZATION">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.15</data>
+  <data key="d5">사색과(와) 깨달음 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="CONCENTRATION" target="BOREDOM">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.1</data>
+  <data key="d5">집중과(와) 지루함 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="CONCENTRATION" target="INTEREST">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.16</data>
+  <data key="d5">집중과(와) 흥미 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="INTEREST" target="REALIZATION">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.09</data>
+  <data key="d5">흥미과(와) 깨달음 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="BOREDOM" target="TIREDNESS">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.26</data>
+  <data key="d5">지루함과(와) 피로 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+<edge source="CONFUSION" target="DOUBT">
+  <data key="d3">co_occurs</data>
+  <data key="d4">0.14</data>
+  <data key="d5">혼란과(와) 의심 감정이 함께 나타나는 경향</data>
+  <data key="d6">train_agg</data>
+</edge>
+</graph></graphml>

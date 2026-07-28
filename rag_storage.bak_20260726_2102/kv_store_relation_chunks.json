@@ -1,0 +1,1487 @@
+{
+  "HAPPY<SEP>JOY": {
+    "chunk_ids": [
+      "taxonomy"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "HAPPY<SEP>JOY"
+  },
+  "ECSTASY<SEP>HAPPY": {
+    "chunk_ids": [
+      "taxonomy"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "ECSTASY<SEP>HAPPY"
+  },
+  "CONTENTMENT<SEP>HAPPY": {
+    "chunk_ids": [
+      "taxonomy"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "CONTENTMENT<SEP>HAPPY"
+  },
+  "HAPPY<SEP>SATISFACTION": {
+    "chunk_ids": [
+      "taxonomy"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "HAPPY<SEP>SATISFACTION"
+  },
+  "AMUSEMENT<SEP>HAPPY": {
+    "chunk_ids": [
+      "taxonomy"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "AMUSEMENT<SEP>HAPPY"
+  },
+  "EXCITEMENT<SEP>HAPPY": {
+    "chunk_ids": [
+      "taxonomy"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "EXCITEMENT<SEP>HAPPY"
+  },
+  "HAPPY<SEP>PRIDE": {
+    "chunk_ids": [
+      "taxonomy"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "HAPPY<SEP>PRIDE"
+  },
+  "HAPPY<SEP>TRIUMPH": {
+    "chunk_ids": [
+      "taxonomy"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "HAPPY<SEP>TRIUMPH"
+  },
+  "HAPPY<SEP>RELIEF": {
+    "chunk_ids": [
+      "taxonomy"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "HAPPY<SEP>RELIEF"
+  },
+  "ADMIRATION<SEP>HAPPY": {
+    "chunk_ids": [
+      "taxonomy"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "ADMIRATION<SEP>HAPPY"
+  },
+  "ADORATION<SEP>HAPPY": {
+    "chunk_ids": [
+      "taxonomy"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "ADORATION<SEP>HAPPY"
+  },
+  "HAPPY<SEP>LOVE": {
+    "chunk_ids": [
+      "taxonomy"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "HAPPY<SEP>LOVE"
+  },
+  "HAPPY<SEP>ROMANCE": {
+    "chunk_ids": [
+      "taxonomy"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "HAPPY<SEP>ROMANCE"
+  },
+  "ENTRANCEMENT<SEP>HAPPY": {
+    "chunk_ids": [
+      "taxonomy"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "ENTRANCEMENT<SEP>HAPPY"
+  },
+  "AESTHETIC_APPRECIATION<SEP>HAPPY": {
+    "chunk_ids": [
+      "taxonomy"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "AESTHETIC_APPRECIATION<SEP>HAPPY"
+  },
+  "DETERMINATION<SEP>HAPPY": {
+    "chunk_ids": [
+      "taxonomy"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "DETERMINATION<SEP>HAPPY"
+  },
+  "EXCITEMENT<SEP>JOY": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "EXCITEMENT<SEP>JOY"
+  },
+  "JOY<SEP>PRIDE": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "JOY<SEP>PRIDE"
+  },
+  "CONTENTMENT<SEP>JOY": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "CONTENTMENT<SEP>JOY"
+  },
+  "ADMIRATION<SEP>JOY": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "ADMIRATION<SEP>JOY"
+  },
+  "JOY<SEP>SATISFACTION": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "JOY<SEP>SATISFACTION"
+  },
+  "JOY<SEP>LOVE": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "JOY<SEP>LOVE"
+  },
+  "CALMNESS<SEP>JOY": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "CALMNESS<SEP>JOY"
+  },
+  "AMUSEMENT<SEP>JOY": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "AMUSEMENT<SEP>JOY"
+  },
+  "CONTENTMENT<SEP>SATISFACTION": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "CONTENTMENT<SEP>SATISFACTION"
+  },
+  "CALMNESS<SEP>CONTENTMENT": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "CALMNESS<SEP>CONTENTMENT"
+  },
+  "CONTENTMENT<SEP>PRIDE": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "CONTENTMENT<SEP>PRIDE"
+  },
+  "CONTENTMENT<SEP>EXCITEMENT": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "CONTENTMENT<SEP>EXCITEMENT"
+  },
+  "CONTENTMENT<SEP>INTEREST": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "CONTENTMENT<SEP>INTEREST"
+  },
+  "ADMIRATION<SEP>CONTENTMENT": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "ADMIRATION<SEP>CONTENTMENT"
+  },
+  "AMUSEMENT<SEP>CONTENTMENT": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "AMUSEMENT<SEP>CONTENTMENT"
+  },
+  "ADMIRATION<SEP>SATISFACTION": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "ADMIRATION<SEP>SATISFACTION"
+  },
+  "AMUSEMENT<SEP>SATISFACTION": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "AMUSEMENT<SEP>SATISFACTION"
+  },
+  "AMUSEMENT<SEP>EXCITEMENT": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "AMUSEMENT<SEP>EXCITEMENT"
+  },
+  "AMUSEMENT<SEP>PRIDE": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "AMUSEMENT<SEP>PRIDE"
+  },
+  "AMUSEMENT<SEP>LOVE": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "AMUSEMENT<SEP>LOVE"
+  },
+  "AMUSEMENT<SEP>CALMNESS": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "AMUSEMENT<SEP>CALMNESS"
+  },
+  "EXCITEMENT<SEP>PRIDE": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "EXCITEMENT<SEP>PRIDE"
+  },
+  "EXCITEMENT<SEP>INTEREST": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "EXCITEMENT<SEP>INTEREST"
+  },
+  "EXCITEMENT<SEP>LOVE": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "EXCITEMENT<SEP>LOVE"
+  },
+  "CALMNESS<SEP>PRIDE": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "CALMNESS<SEP>PRIDE"
+  },
+  "LOVE<SEP>PRIDE": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "LOVE<SEP>PRIDE"
+  },
+  "DETERMINATION<SEP>PRIDE": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "DETERMINATION<SEP>PRIDE"
+  },
+  "ADMIRATION<SEP>AESTHETIC_APPRECIATION": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "ADMIRATION<SEP>AESTHETIC_APPRECIATION"
+  },
+  "ADORATION<SEP>LOVE": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "ADORATION<SEP>LOVE"
+  },
+  "LOVE<SEP>SYMPATHY": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "LOVE<SEP>SYMPATHY"
+  },
+  "EMPATHIC_PAIN<SEP>LOVE": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "EMPATHIC_PAIN<SEP>LOVE"
+  },
+  "CONTEMPLATION<SEP>LOVE": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "CONTEMPLATION<SEP>LOVE"
+  },
+  "CALMNESS<SEP>LOVE": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "CALMNESS<SEP>LOVE"
+  },
+  "LOVE<SEP>REALIZATION": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "LOVE<SEP>REALIZATION"
+  },
+  "ENTRANCEMENT<SEP>INTEREST": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "ENTRANCEMENT<SEP>INTEREST"
+  },
+  "CONCENTRATION<SEP>DETERMINATION": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "CONCENTRATION<SEP>DETERMINATION"
+  },
+  "CALMNESS<SEP>DETERMINATION": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "CALMNESS<SEP>DETERMINATION"
+  },
+  "SAD<SEP>SADNESS": {
+    "chunk_ids": [
+      "taxonomy"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "SAD<SEP>SADNESS"
+  },
+  "DISTRESS<SEP>SAD": {
+    "chunk_ids": [
+      "taxonomy"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "DISTRESS<SEP>SAD"
+  },
+  "DISAPPOINTMENT<SEP>SAD": {
+    "chunk_ids": [
+      "taxonomy"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "DISAPPOINTMENT<SEP>SAD"
+  },
+  "GUILT<SEP>SAD": {
+    "chunk_ids": [
+      "taxonomy"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "GUILT<SEP>SAD"
+  },
+  "SAD<SEP>SHAME": {
+    "chunk_ids": [
+      "taxonomy"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "SAD<SEP>SHAME"
+  },
+  "EMBARRASSMENT<SEP>SAD": {
+    "chunk_ids": [
+      "taxonomy"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "EMBARRASSMENT<SEP>SAD"
+  },
+  "EMPATHIC_PAIN<SEP>SAD": {
+    "chunk_ids": [
+      "taxonomy"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "EMPATHIC_PAIN<SEP>SAD"
+  },
+  "SAD<SEP>SYMPATHY": {
+    "chunk_ids": [
+      "taxonomy"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "SAD<SEP>SYMPATHY"
+  },
+  "LONELINESS<SEP>SAD": {
+    "chunk_ids": [
+      "taxonomy"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "LONELINESS<SEP>SAD"
+  },
+  "SADNESS<SEP>SYMPATHY": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "SADNESS<SEP>SYMPATHY"
+  },
+  "DISAPPOINTMENT<SEP>SADNESS": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "DISAPPOINTMENT<SEP>SADNESS"
+  },
+  "LONELINESS<SEP>SADNESS": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "LONELINESS<SEP>SADNESS"
+  },
+  "DISTRESS<SEP>SADNESS": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "DISTRESS<SEP>SADNESS"
+  },
+  "ANXIETY_GENERAL<SEP>SADNESS": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "ANXIETY_GENERAL<SEP>SADNESS"
+  },
+  "EMBARRASSMENT<SEP>SADNESS": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "EMBARRASSMENT<SEP>SADNESS"
+  },
+  "GUILT<SEP>SADNESS": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "GUILT<SEP>SADNESS"
+  },
+  "EMPATHIC_PAIN<SEP>SADNESS": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "EMPATHIC_PAIN<SEP>SADNESS"
+  },
+  "SADNESS<SEP>TIREDNESS": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "SADNESS<SEP>TIREDNESS"
+  },
+  "SADNESS<SEP>SHAME": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "SADNESS<SEP>SHAME"
+  },
+  "DISTRESS<SEP>TIREDNESS": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "DISTRESS<SEP>TIREDNESS"
+  },
+  "DISTRESS<SEP>SHAME": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "DISTRESS<SEP>SHAME"
+  },
+  "DISTRESS<SEP>GUILT": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "DISTRESS<SEP>GUILT"
+  },
+  "DISTRESS<SEP>EMBARRASSMENT": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "DISTRESS<SEP>EMBARRASSMENT"
+  },
+  "CONFUSION<SEP>DISTRESS": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "CONFUSION<SEP>DISTRESS"
+  },
+  "DISTRESS<SEP>SURPRISE_NEGATIVE": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "DISTRESS<SEP>SURPRISE_NEGATIVE"
+  },
+  "DISTRESS<SEP>EMPATHIC_PAIN": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "DISTRESS<SEP>EMPATHIC_PAIN"
+  },
+  "DISTRESS<SEP>SYMPATHY": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "DISTRESS<SEP>SYMPATHY"
+  },
+  "DISAPPOINTMENT<SEP>EMBARRASSMENT": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "DISAPPOINTMENT<SEP>EMBARRASSMENT"
+  },
+  "DISAPPOINTMENT<SEP>FRUSTRATION": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "DISAPPOINTMENT<SEP>FRUSTRATION"
+  },
+  "ANGER<SEP>DISAPPOINTMENT": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "ANGER<SEP>DISAPPOINTMENT"
+  },
+  "DISAPPOINTMENT<SEP>DISGUST": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "DISAPPOINTMENT<SEP>DISGUST"
+  },
+  "DISAPPOINTMENT<SEP>EMPATHIC_PAIN": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "DISAPPOINTMENT<SEP>EMPATHIC_PAIN"
+  },
+  "CONTEMPT<SEP>DISAPPOINTMENT": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "CONTEMPT<SEP>DISAPPOINTMENT"
+  },
+  "DISAPPOINTMENT<SEP>DOUBT": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "DISAPPOINTMENT<SEP>DOUBT"
+  },
+  "GUILT<SEP>SHAME": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "GUILT<SEP>SHAME"
+  },
+  "ANXIETY_GENERAL<SEP>GUILT": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "ANXIETY_GENERAL<SEP>GUILT"
+  },
+  "EMBARRASSMENT<SEP>GUILT": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "EMBARRASSMENT<SEP>GUILT"
+  },
+  "CONFUSION<SEP>SHAME": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "CONFUSION<SEP>SHAME"
+  },
+  "EMBARRASSMENT<SEP>SHAME": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "EMBARRASSMENT<SEP>SHAME"
+  },
+  "ANXIETY_GENERAL<SEP>EMBARRASSMENT": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "ANXIETY_GENERAL<SEP>EMBARRASSMENT"
+  },
+  "EMBARRASSMENT<SEP>FEAR": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "EMBARRASSMENT<SEP>FEAR"
+  },
+  "AWKWARDNESS<SEP>EMBARRASSMENT": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "AWKWARDNESS<SEP>EMBARRASSMENT"
+  },
+  "DOUBT<SEP>EMBARRASSMENT": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "DOUBT<SEP>EMBARRASSMENT"
+  },
+  "EMBARRASSMENT<SEP>SURPRISE_NEGATIVE": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "EMBARRASSMENT<SEP>SURPRISE_NEGATIVE"
+  },
+  "CONFUSION<SEP>EMBARRASSMENT": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "CONFUSION<SEP>EMBARRASSMENT"
+  },
+  "EMBARRASSMENT<SEP>EMPATHIC_PAIN": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "EMBARRASSMENT<SEP>EMPATHIC_PAIN"
+  },
+  "EMPATHIC_PAIN<SEP>SYMPATHY": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "EMPATHIC_PAIN<SEP>SYMPATHY"
+  },
+  "EMPATHIC_PAIN<SEP>REALIZATION": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "EMPATHIC_PAIN<SEP>REALIZATION"
+  },
+  "CONTEMPLATION<SEP>EMPATHIC_PAIN": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "CONTEMPLATION<SEP>EMPATHIC_PAIN"
+  },
+  "CONFUSION<SEP>EMPATHIC_PAIN": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "CONFUSION<SEP>EMPATHIC_PAIN"
+  },
+  "CONTEMPLATION<SEP>SYMPATHY": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "CONTEMPLATION<SEP>SYMPATHY"
+  },
+  "ANXIETY_GENERAL<SEP>SYMPATHY": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "ANXIETY_GENERAL<SEP>SYMPATHY"
+  },
+  "ANXIETY_GENERAL<SEP>LONELINESS": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "ANXIETY_GENERAL<SEP>LONELINESS"
+  },
+  "ANGER<SEP>ANGRY": {
+    "chunk_ids": [
+      "taxonomy"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "ANGER<SEP>ANGRY"
+  },
+  "ANGRY<SEP>CONTEMPT": {
+    "chunk_ids": [
+      "taxonomy"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "ANGRY<SEP>CONTEMPT"
+  },
+  "ANGRY<SEP>DISGUST": {
+    "chunk_ids": [
+      "taxonomy"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "ANGRY<SEP>DISGUST"
+  },
+  "ANGRY<SEP>FRUSTRATION": {
+    "chunk_ids": [
+      "taxonomy"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "ANGRY<SEP>FRUSTRATION"
+  },
+  "ANGRY<SEP>ENVY": {
+    "chunk_ids": [
+      "taxonomy"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "ANGRY<SEP>ENVY"
+  },
+  "ANGRY<SEP>CRAVING": {
+    "chunk_ids": [
+      "taxonomy"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "ANGRY<SEP>CRAVING"
+  },
+  "ANGER<SEP>CONTEMPT": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "ANGER<SEP>CONTEMPT"
+  },
+  "ANGER<SEP>FRUSTRATION": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "ANGER<SEP>FRUSTRATION"
+  },
+  "ANGER<SEP>DISGUST": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "ANGER<SEP>DISGUST"
+  },
+  "ANGER<SEP>SURPRISE_NEGATIVE": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "ANGER<SEP>SURPRISE_NEGATIVE"
+  },
+  "CONTEMPT<SEP>FRUSTRATION": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "CONTEMPT<SEP>FRUSTRATION"
+  },
+  "CONTEMPT<SEP>DISGUST": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "CONTEMPT<SEP>DISGUST"
+  },
+  "CONTEMPT<SEP>SURPRISE_NEGATIVE": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "CONTEMPT<SEP>SURPRISE_NEGATIVE"
+  },
+  "CONTEMPT<SEP>DOUBT": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "CONTEMPT<SEP>DOUBT"
+  },
+  "DISGUST<SEP>FRUSTRATION": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "DISGUST<SEP>FRUSTRATION"
+  },
+  "DISGUST<SEP>SURPRISE_NEGATIVE": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "DISGUST<SEP>SURPRISE_NEGATIVE"
+  },
+  "DISGUST<SEP>DOUBT": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "DISGUST<SEP>DOUBT"
+  },
+  "FRUSTRATION<SEP>SURPRISE_NEGATIVE": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "FRUSTRATION<SEP>SURPRISE_NEGATIVE"
+  },
+  "ENVY<SEP>FRUSTRATION": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "ENVY<SEP>FRUSTRATION"
+  },
+  "ANXIETY<SEP>FEAR": {
+    "chunk_ids": [
+      "taxonomy"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "ANXIETY<SEP>FEAR"
+  },
+  "ANXIETY<SEP>ANXIETY_GENERAL": {
+    "chunk_ids": [
+      "taxonomy"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "ANXIETY<SEP>ANXIETY_GENERAL"
+  },
+  "ANXIETY<SEP>HORROR": {
+    "chunk_ids": [
+      "taxonomy"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "ANXIETY<SEP>HORROR"
+  },
+  "ANXIETY_GENERAL<SEP>FEAR": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "ANXIETY_GENERAL<SEP>FEAR"
+  },
+  "FEAR<SEP>SURPRISE_NEGATIVE": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "FEAR<SEP>SURPRISE_NEGATIVE"
+  },
+  "FEAR<SEP>HORROR": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "FEAR<SEP>HORROR"
+  },
+  "CONFUSION<SEP>FEAR": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "CONFUSION<SEP>FEAR"
+  },
+  "AWKWARDNESS<SEP>FEAR": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "AWKWARDNESS<SEP>FEAR"
+  },
+  "ANXIETY_GENERAL<SEP>DOUBT": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "ANXIETY_GENERAL<SEP>DOUBT"
+  },
+  "ANXIETY_GENERAL<SEP>CONFUSION": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "ANXIETY_GENERAL<SEP>CONFUSION"
+  },
+  "ANXIETY_GENERAL<SEP>HORROR": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "ANXIETY_GENERAL<SEP>HORROR"
+  },
+  "SURPRISE<SEP>SURPRISE_POSITIVE": {
+    "chunk_ids": [
+      "taxonomy"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "SURPRISE<SEP>SURPRISE_POSITIVE"
+  },
+  "SURPRISE<SEP>SURPRISE_NEGATIVE": {
+    "chunk_ids": [
+      "taxonomy"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "SURPRISE<SEP>SURPRISE_NEGATIVE"
+  },
+  "AWE<SEP>SURPRISE": {
+    "chunk_ids": [
+      "taxonomy"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "AWE<SEP>SURPRISE"
+  },
+  "AWKWARDNESS<SEP>SURPRISE": {
+    "chunk_ids": [
+      "taxonomy"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "AWKWARDNESS<SEP>SURPRISE"
+  },
+  "CONFUSION<SEP>SURPRISE_NEGATIVE": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "CONFUSION<SEP>SURPRISE_NEGATIVE"
+  },
+  "AWKWARDNESS<SEP>CONFUSION": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "AWKWARDNESS<SEP>CONFUSION"
+  },
+  "AWKWARDNESS<SEP>DOUBT": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "AWKWARDNESS<SEP>DOUBT"
+  },
+  "CALMNESS<SEP>NEUTRAL": {
+    "chunk_ids": [
+      "taxonomy"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "CALMNESS<SEP>NEUTRAL"
+  },
+  "CONTEMPLATION<SEP>NEUTRAL": {
+    "chunk_ids": [
+      "taxonomy"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "CONTEMPLATION<SEP>NEUTRAL"
+  },
+  "CONCENTRATION<SEP>NEUTRAL": {
+    "chunk_ids": [
+      "taxonomy"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "CONCENTRATION<SEP>NEUTRAL"
+  },
+  "INTEREST<SEP>NEUTRAL": {
+    "chunk_ids": [
+      "taxonomy"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "INTEREST<SEP>NEUTRAL"
+  },
+  "NEUTRAL<SEP>REALIZATION": {
+    "chunk_ids": [
+      "taxonomy"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "NEUTRAL<SEP>REALIZATION"
+  },
+  "BOREDOM<SEP>NEUTRAL": {
+    "chunk_ids": [
+      "taxonomy"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "BOREDOM<SEP>NEUTRAL"
+  },
+  "NEUTRAL<SEP>TIREDNESS": {
+    "chunk_ids": [
+      "taxonomy"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "NEUTRAL<SEP>TIREDNESS"
+  },
+  "CONFUSION<SEP>NEUTRAL": {
+    "chunk_ids": [
+      "taxonomy"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "CONFUSION<SEP>NEUTRAL"
+  },
+  "DOUBT<SEP>NEUTRAL": {
+    "chunk_ids": [
+      "taxonomy"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "DOUBT<SEP>NEUTRAL"
+  },
+  "NEUTRAL<SEP>NOSTALGIA": {
+    "chunk_ids": [
+      "taxonomy"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "NEUTRAL<SEP>NOSTALGIA"
+  },
+  "CALMNESS<SEP>CONCENTRATION": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "CALMNESS<SEP>CONCENTRATION"
+  },
+  "CALMNESS<SEP>INTEREST": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "CALMNESS<SEP>INTEREST"
+  },
+  "CALMNESS<SEP>REALIZATION": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "CALMNESS<SEP>REALIZATION"
+  },
+  "CALMNESS<SEP>CONTEMPLATION": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "CALMNESS<SEP>CONTEMPLATION"
+  },
+  "CONCENTRATION<SEP>CONTEMPLATION": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "CONCENTRATION<SEP>CONTEMPLATION"
+  },
+  "CONTEMPLATION<SEP>TIREDNESS": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "CONTEMPLATION<SEP>TIREDNESS"
+  },
+  "CONTEMPLATION<SEP>REALIZATION": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "CONTEMPLATION<SEP>REALIZATION"
+  },
+  "BOREDOM<SEP>CONCENTRATION": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "BOREDOM<SEP>CONCENTRATION"
+  },
+  "CONCENTRATION<SEP>INTEREST": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "CONCENTRATION<SEP>INTEREST"
+  },
+  "INTEREST<SEP>REALIZATION": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "INTEREST<SEP>REALIZATION"
+  },
+  "BOREDOM<SEP>TIREDNESS": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "BOREDOM<SEP>TIREDNESS"
+  },
+  "CONFUSION<SEP>DOUBT": {
+    "chunk_ids": [
+      "train_agg"
+    ],
+    "count": 1,
+    "create_time": 1785045142,
+    "update_time": 1785045142,
+    "_id": "CONFUSION<SEP>DOUBT"
+  }
+}

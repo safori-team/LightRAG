@@ -1,0 +1,65 @@
+{
+  "group": "weekly_before",
+  "gold_tier": "accept",
+  "tau": 0.5,
+  "top_k": 8,
+  "situational": true,
+  "build_info": {
+    "run": "wk_before_tune",
+    "label_source": "labeling_before_last_week_100.csv (5 annotators)",
+    "holdout_frac": 0.2,
+    "n_train": 69,
+    "n_holdout": 31,
+    "backend": {
+      "llm_binding": "openai",
+      "llm_model": "gpt-5-mini",
+      "embedding_binding": "openai",
+      "embedding_model": "text-embedding-3-large",
+      "embedding_dim": 3072
+    },
+    "custom_kg": {
+      "entities": 54,
+      "belongs_to": 48,
+      "co_occurs": 117,
+      "chunks": 69,
+      "n_readings": 342,
+      "n_pairs": 606,
+      "n_undirected_edges": 117,
+      "n_directional_entries": 234,
+      "unique_subs_seen": 46
+    }
+  },
+  "arms": [
+    {
+      "arm": "A4",
+      "macro_jaccard": 0.2667,
+      "macro_recall": 0.5188,
+      "macro_precision": 0.3111,
+      "micro_recall": 0.5253,
+      "micro_precision": 0.2766,
+      "avg_pred_size": 6.06,
+      "cross_major_recall": 0.2653,
+      "parse_fail": 0,
+      "hallucinated": 1
+    },
+    {
+      "arm": "A5",
+      "macro_jaccard": 0.298,
+      "macro_recall": 0.4452,
+      "macro_precision": 0.3933,
+      "micro_recall": 0.4545,
+      "micro_precision": 0.3782,
+      "avg_pred_size": 3.84,
+      "cross_major_recall": 0.1429,
+      "parse_fail": 0,
+      "hallucinated": 0
+    }
+  ],
+  "paired_delta_jaccard": {
+    "A5-A4": {
+      "delta": 0.0313,
+      "ci_low": -0.0152,
+      "ci_high": 0.0731
+    }
+  }
+}
