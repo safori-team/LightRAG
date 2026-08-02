@@ -110,6 +110,7 @@ def make_embedding_func() -> EmbeddingFunc:
             gemini_embed.func,
             model=embedding_model(),
             api_key=_env("EMBEDDING_BINDING_API_KEY") or _env("GEMINI_API_KEY"),
+            embedding_dim=dim,
         )
     elif binding == "ollama":
         from lightrag.llm.ollama import ollama_embed
