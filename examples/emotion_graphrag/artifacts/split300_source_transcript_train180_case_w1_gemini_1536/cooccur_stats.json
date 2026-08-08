@@ -1,0 +1,2402 @@
+{
+  "CONTEMPLATION|SYMPATHY": {
+    "weight": 0.136,
+    "p_b_given_a": 0.212,
+    "lift": 3.85,
+    "count": 7
+  },
+  "CONTEMPLATION|CONCENTRATION": {
+    "weight": 0.212,
+    "p_b_given_a": 0.303,
+    "lift": 2.81,
+    "count": 10
+  },
+  "SYMPATHY|CONTEMPLATION": {
+    "weight": 0.096,
+    "p_b_given_a": 0.152,
+    "lift": 3.85,
+    "count": 7
+  },
+  "CONCENTRATION|CONTEMPLATION": {
+    "weight": 0.075,
+    "p_b_given_a": 0.111,
+    "lift": 2.81,
+    "count": 10
+  },
+  "EMPATHIC_PAIN|SYMPATHY": {
+    "weight": 0.489,
+    "p_b_given_a": 0.595,
+    "lift": 10.79,
+    "count": 22
+  },
+  "EMPATHIC_PAIN|LOVE": {
+    "weight": 0.059,
+    "p_b_given_a": 0.108,
+    "lift": 3.22,
+    "count": 4
+  },
+  "SYMPATHY|EMPATHIC_PAIN": {
+    "weight": 0.386,
+    "p_b_given_a": 0.478,
+    "lift": 10.79,
+    "count": 22
+  },
+  "SYMPATHY|LOVE": {
+    "weight": 0.079,
+    "p_b_given_a": 0.13,
+    "lift": 3.89,
+    "count": 6
+  },
+  "LOVE|EMPATHIC_PAIN": {
+    "weight": 0.078,
+    "p_b_given_a": 0.143,
+    "lift": 3.22,
+    "count": 4
+  },
+  "LOVE|SYMPATHY": {
+    "weight": 0.132,
+    "p_b_given_a": 0.214,
+    "lift": 3.89,
+    "count": 6
+  },
+  "EMBARRASSMENT|FEAR": {
+    "weight": 0.141,
+    "p_b_given_a": 0.178,
+    "lift": 2.66,
+    "count": 26
+  },
+  "FEAR|EMBARRASSMENT": {
+    "weight": 0.381,
+    "p_b_given_a": 0.464,
+    "lift": 2.66,
+    "count": 26
+  },
+  "DISAPPOINTMENT|EMBARRASSMENT": {
+    "weight": 0.208,
+    "p_b_given_a": 0.276,
+    "lift": 1.58,
+    "count": 16
+  },
+  "EMBARRASSMENT|DISAPPOINTMENT": {
+    "weight": 0.081,
+    "p_b_given_a": 0.11,
+    "lift": 1.58,
+    "count": 16
+  },
+  "EMBARRASSMENT|AWKWARDNESS": {
+    "weight": 0.093,
+    "p_b_given_a": 0.123,
+    "lift": 1.98,
+    "count": 18
+  },
+  "AWKWARDNESS|EMBARRASSMENT": {
+    "weight": 0.268,
+    "p_b_given_a": 0.346,
+    "lift": 1.98,
+    "count": 18
+  },
+  "ANXIETY_GENERAL|EMBARRASSMENT": {
+    "weight": 0.311,
+    "p_b_given_a": 0.358,
+    "lift": 2.05,
+    "count": 59
+  },
+  "ANXIETY_GENERAL|DOUBT": {
+    "weight": 0.108,
+    "p_b_given_a": 0.139,
+    "lift": 1.44,
+    "count": 23
+  },
+  "EMBARRASSMENT|ANXIETY_GENERAL": {
+    "weight": 0.353,
+    "p_b_given_a": 0.404,
+    "lift": 2.05,
+    "count": 59
+  },
+  "DOUBT|ANXIETY_GENERAL": {
+    "weight": 0.225,
+    "p_b_given_a": 0.284,
+    "lift": 1.44,
+    "count": 23
+  },
+  "ANXIETY_GENERAL|FEAR": {
+    "weight": 0.254,
+    "p_b_given_a": 0.297,
+    "lift": 4.43,
+    "count": 49
+  },
+  "FEAR|ANXIETY_GENERAL": {
+    "weight": 0.808,
+    "p_b_given_a": 0.875,
+    "lift": 4.43,
+    "count": 49
+  },
+  "DISGUST|FRUSTRATION": {
+    "weight": 0.806,
+    "p_b_given_a": 0.868,
+    "lift": 3.02,
+    "count": 59
+  },
+  "DISGUST|CONTEMPT": {
+    "weight": 0.693,
+    "p_b_given_a": 0.765,
+    "lift": 7.88,
+    "count": 52
+  },
+  "FRUSTRATION|DISGUST": {
+    "weight": 0.212,
+    "p_b_given_a": 0.246,
+    "lift": 3.02,
+    "count": 59
+  },
+  "FRUSTRATION|CONTEMPT": {
+    "weight": 0.256,
+    "p_b_given_a": 0.292,
+    "lift": 3.01,
+    "count": 70
+  },
+  "CONTEMPT|DISGUST": {
+    "weight": 0.572,
+    "p_b_given_a": 0.642,
+    "lift": 7.88,
+    "count": 52
+  },
+  "CONTEMPT|FRUSTRATION": {
+    "weight": 0.808,
+    "p_b_given_a": 0.864,
+    "lift": 3.01,
+    "count": 70
+  },
+  "DISGUST|ANGER": {
+    "weight": 0.555,
+    "p_b_given_a": 0.632,
+    "lift": 4.63,
+    "count": 43
+  },
+  "CONTEMPT|ANGER": {
+    "weight": 0.484,
+    "p_b_given_a": 0.556,
+    "lift": 4.07,
+    "count": 45
+  },
+  "FRUSTRATION|ANGER": {
+    "weight": 0.34,
+    "p_b_given_a": 0.379,
+    "lift": 2.78,
+    "count": 91
+  },
+  "ANGER|DISGUST": {
+    "weight": 0.321,
+    "p_b_given_a": 0.377,
+    "lift": 4.63,
+    "count": 43
+  },
+  "ANGER|CONTEMPT": {
+    "weight": 0.338,
+    "p_b_given_a": 0.395,
+    "lift": 4.07,
+    "count": 45
+  },
+  "ANGER|FRUSTRATION": {
+    "weight": 0.746,
+    "p_b_given_a": 0.798,
+    "lift": 2.78,
+    "count": 91
+  },
+  "EMBARRASSMENT|SURPRISE_NEGATIVE": {
+    "weight": 0.191,
+    "p_b_given_a": 0.233,
+    "lift": 1.72,
+    "count": 34
+  },
+  "SURPRISE_NEGATIVE|EMBARRASSMENT": {
+    "weight": 0.249,
+    "p_b_given_a": 0.301,
+    "lift": 1.72,
+    "count": 34
+  },
+  "SURPRISE_NEGATIVE|DISGUST": {
+    "weight": 0.097,
+    "p_b_given_a": 0.133,
+    "lift": 1.63,
+    "count": 15
+  },
+  "SURPRISE_NEGATIVE|CONTEMPT": {
+    "weight": 0.12,
+    "p_b_given_a": 0.159,
+    "lift": 1.64,
+    "count": 18
+  },
+  "DISGUST|SURPRISE_NEGATIVE": {
+    "weight": 0.163,
+    "p_b_given_a": 0.221,
+    "lift": 1.63,
+    "count": 15
+  },
+  "CONTEMPT|SURPRISE_NEGATIVE": {
+    "weight": 0.169,
+    "p_b_given_a": 0.222,
+    "lift": 1.64,
+    "count": 18
+  },
+  "ENVY|DOUBT": {
+    "weight": 0.139,
+    "p_b_given_a": 0.273,
+    "lift": 2.81,
+    "count": 3
+  },
+  "DOUBT|ENVY": {
+    "weight": 0.018,
+    "p_b_given_a": 0.037,
+    "lift": 2.81,
+    "count": 3
+  },
+  "CALMNESS|CONCENTRATION": {
+    "weight": 0.195,
+    "p_b_given_a": 0.242,
+    "lift": 2.24,
+    "count": 29
+  },
+  "CONCENTRATION|CALMNESS": {
+    "weight": 0.263,
+    "p_b_given_a": 0.322,
+    "lift": 2.24,
+    "count": 29
+  },
+  "ANXIETY_GENERAL|SURPRISE_NEGATIVE": {
+    "weight": 0.152,
+    "p_b_given_a": 0.188,
+    "lift": 1.39,
+    "count": 31
+  },
+  "SURPRISE_NEGATIVE|ANXIETY_GENERAL": {
+    "weight": 0.224,
+    "p_b_given_a": 0.274,
+    "lift": 1.39,
+    "count": 31
+  },
+  "DISAPPOINTMENT|FRUSTRATION": {
+    "weight": 0.451,
+    "p_b_given_a": 0.534,
+    "lift": 1.86,
+    "count": 31
+  },
+  "DISAPPOINTMENT|ANGER": {
+    "weight": 0.318,
+    "p_b_given_a": 0.397,
+    "lift": 2.9,
+    "count": 23
+  },
+  "FRUSTRATION|DISAPPOINTMENT": {
+    "weight": 0.104,
+    "p_b_given_a": 0.129,
+    "lift": 1.86,
+    "count": 31
+  },
+  "ANGER|DISAPPOINTMENT": {
+    "weight": 0.158,
+    "p_b_given_a": 0.202,
+    "lift": 2.9,
+    "count": 23
+  },
+  "CONFUSION|EMBARRASSMENT": {
+    "weight": 0.467,
+    "p_b_given_a": 0.547,
+    "lift": 3.13,
+    "count": 35
+  },
+  "CONFUSION|SURPRISE_NEGATIVE": {
+    "weight": 0.287,
+    "p_b_given_a": 0.359,
+    "lift": 2.66,
+    "count": 23
+  },
+  "EMBARRASSMENT|CONFUSION": {
+    "weight": 0.198,
+    "p_b_given_a": 0.24,
+    "lift": 3.13,
+    "count": 35
+  },
+  "SURPRISE_NEGATIVE|CONFUSION": {
+    "weight": 0.159,
+    "p_b_given_a": 0.204,
+    "lift": 2.66,
+    "count": 23
+  },
+  "CALMNESS|INTEREST": {
+    "weight": 0.128,
+    "p_b_given_a": 0.167,
+    "lift": 2.08,
+    "count": 20
+  },
+  "CALMNESS|REALIZATION": {
+    "weight": 0.077,
+    "p_b_given_a": 0.108,
+    "lift": 3.93,
+    "count": 13
+  },
+  "INTEREST|CALMNESS": {
+    "weight": 0.232,
+    "p_b_given_a": 0.299,
+    "lift": 2.08,
+    "count": 20
+  },
+  "INTEREST|REALIZATION": {
+    "weight": 0.043,
+    "p_b_given_a": 0.075,
+    "lift": 2.71,
+    "count": 5
+  },
+  "REALIZATION|CALMNESS": {
+    "weight": 0.433,
+    "p_b_given_a": 0.565,
+    "lift": 3.93,
+    "count": 13
+  },
+  "REALIZATION|INTEREST": {
+    "weight": 0.128,
+    "p_b_given_a": 0.217,
+    "lift": 2.71,
+    "count": 5
+  },
+  "TIREDNESS|DISTRESS": {
+    "weight": 0.083,
+    "p_b_given_a": 0.125,
+    "lift": 3.16,
+    "count": 9
+  },
+  "DISTRESS|TIREDNESS": {
+    "weight": 0.186,
+    "p_b_given_a": 0.273,
+    "lift": 3.16,
+    "count": 9
+  },
+  "CONTENTMENT|SATISFACTION": {
+    "weight": 0.5,
+    "p_b_given_a": 0.636,
+    "lift": 37.95,
+    "count": 14
+  },
+  "SATISFACTION|CONTENTMENT": {
+    "weight": 0.895,
+    "p_b_given_a": 1.0,
+    "lift": 37.95,
+    "count": 14
+  },
+  "CONTENTMENT|PRIDE": {
+    "weight": 0.208,
+    "p_b_given_a": 0.318,
+    "lift": 8.05,
+    "count": 7
+  },
+  "PRIDE|CONTENTMENT": {
+    "weight": 0.136,
+    "p_b_given_a": 0.212,
+    "lift": 8.05,
+    "count": 7
+  },
+  "JOY|EXCITEMENT": {
+    "weight": 0.324,
+    "p_b_given_a": 0.433,
+    "lift": 9.52,
+    "count": 13
+  },
+  "JOY|PRIDE": {
+    "weight": 0.206,
+    "p_b_given_a": 0.3,
+    "lift": 7.59,
+    "count": 9
+  },
+  "EXCITEMENT|JOY": {
+    "weight": 0.252,
+    "p_b_given_a": 0.342,
+    "lift": 9.52,
+    "count": 13
+  },
+  "EXCITEMENT|PRIDE": {
+    "weight": 0.276,
+    "p_b_given_a": 0.368,
+    "lift": 9.32,
+    "count": 14
+  },
+  "PRIDE|JOY": {
+    "weight": 0.186,
+    "p_b_given_a": 0.273,
+    "lift": 7.59,
+    "count": 9
+  },
+  "PRIDE|EXCITEMENT": {
+    "weight": 0.32,
+    "p_b_given_a": 0.424,
+    "lift": 9.32,
+    "count": 14
+  },
+  "INTEREST|DETERMINATION": {
+    "weight": 0.078,
+    "p_b_given_a": 0.119,
+    "lift": 2.62,
+    "count": 8
+  },
+  "INTEREST|CONCENTRATION": {
+    "weight": 0.401,
+    "p_b_given_a": 0.478,
+    "lift": 4.43,
+    "count": 32
+  },
+  "DETERMINATION|INTEREST": {
+    "weight": 0.139,
+    "p_b_given_a": 0.211,
+    "lift": 2.62,
+    "count": 8
+  },
+  "DETERMINATION|CONCENTRATION": {
+    "weight": 0.183,
+    "p_b_given_a": 0.263,
+    "lift": 2.44,
+    "count": 10
+  },
+  "CONCENTRATION|INTEREST": {
+    "weight": 0.294,
+    "p_b_given_a": 0.356,
+    "lift": 4.43,
+    "count": 32
+  },
+  "CONCENTRATION|DETERMINATION": {
+    "weight": 0.075,
+    "p_b_given_a": 0.111,
+    "lift": 2.44,
+    "count": 10
+  },
+  "ANXIETY_GENERAL|CONFUSION": {
+    "weight": 0.114,
+    "p_b_given_a": 0.145,
+    "lift": 1.9,
+    "count": 24
+  },
+  "ANXIETY_GENERAL|AWKWARDNESS": {
+    "weight": 0.108,
+    "p_b_given_a": 0.139,
+    "lift": 2.24,
+    "count": 23
+  },
+  "CONFUSION|ANXIETY_GENERAL": {
+    "weight": 0.302,
+    "p_b_given_a": 0.375,
+    "lift": 1.9,
+    "count": 24
+  },
+  "CONFUSION|DOUBT": {
+    "weight": 0.258,
+    "p_b_given_a": 0.328,
+    "lift": 3.38,
+    "count": 21
+  },
+  "CONFUSION|AWKWARDNESS": {
+    "weight": 0.147,
+    "p_b_given_a": 0.203,
+    "lift": 3.26,
+    "count": 13
+  },
+  "DOUBT|CONFUSION": {
+    "weight": 0.202,
+    "p_b_given_a": 0.259,
+    "lift": 3.38,
+    "count": 21
+  },
+  "DOUBT|AWKWARDNESS": {
+    "weight": 0.064,
+    "p_b_given_a": 0.099,
+    "lift": 1.59,
+    "count": 8
+  },
+  "AWKWARDNESS|ANXIETY_GENERAL": {
+    "weight": 0.357,
+    "p_b_given_a": 0.442,
+    "lift": 2.24,
+    "count": 23
+  },
+  "AWKWARDNESS|CONFUSION": {
+    "weight": 0.182,
+    "p_b_given_a": 0.25,
+    "lift": 3.26,
+    "count": 13
+  },
+  "AWKWARDNESS|DOUBT": {
+    "weight": 0.1,
+    "p_b_given_a": 0.154,
+    "lift": 1.59,
+    "count": 8
+  },
+  "SURPRISE_NEGATIVE|FEAR": {
+    "weight": 0.128,
+    "p_b_given_a": 0.168,
+    "lift": 2.51,
+    "count": 19
+  },
+  "FEAR|SURPRISE_NEGATIVE": {
+    "weight": 0.264,
+    "p_b_given_a": 0.339,
+    "lift": 2.51,
+    "count": 19
+  },
+  "INTEREST|AWKWARDNESS": {
+    "weight": 0.066,
+    "p_b_given_a": 0.104,
+    "lift": 1.68,
+    "count": 7
+  },
+  "AWKWARDNESS|INTEREST": {
+    "weight": 0.085,
+    "p_b_given_a": 0.135,
+    "lift": 1.68,
+    "count": 7
+  },
+  "DISAPPOINTMENT|TIREDNESS": {
+    "weight": 0.076,
+    "p_b_given_a": 0.121,
+    "lift": 1.4,
+    "count": 7
+  },
+  "TIREDNESS|DISAPPOINTMENT": {
+    "weight": 0.061,
+    "p_b_given_a": 0.097,
+    "lift": 1.4,
+    "count": 7
+  },
+  "DISAPPOINTMENT|SADNESS": {
+    "weight": 0.104,
+    "p_b_given_a": 0.155,
+    "lift": 2.06,
+    "count": 9
+  },
+  "SYMPATHY|SADNESS": {
+    "weight": 0.15,
+    "p_b_given_a": 0.217,
+    "lift": 2.88,
+    "count": 10
+  },
+  "LONELINESS|SADNESS": {
+    "weight": 0.41,
+    "p_b_given_a": 0.667,
+    "lift": 8.84,
+    "count": 4
+  },
+  "SADNESS|DISAPPOINTMENT": {
+    "weight": 0.095,
+    "p_b_given_a": 0.143,
+    "lift": 2.06,
+    "count": 9
+  },
+  "SADNESS|SYMPATHY": {
+    "weight": 0.109,
+    "p_b_given_a": 0.159,
+    "lift": 2.88,
+    "count": 10
+  },
+  "SADNESS|LONELINESS": {
+    "weight": 0.034,
+    "p_b_given_a": 0.063,
+    "lift": 8.84,
+    "count": 4
+  },
+  "DISGUST|DISAPPOINTMENT": {
+    "weight": 0.189,
+    "p_b_given_a": 0.25,
+    "lift": 3.6,
+    "count": 17
+  },
+  "DISAPPOINTMENT|DISGUST": {
+    "weight": 0.223,
+    "p_b_given_a": 0.293,
+    "lift": 3.6,
+    "count": 17
+  },
+  "SADNESS|DISTRESS": {
+    "weight": 0.307,
+    "p_b_given_a": 0.381,
+    "lift": 9.64,
+    "count": 24
+  },
+  "DISTRESS|SADNESS": {
+    "weight": 0.619,
+    "p_b_given_a": 0.727,
+    "lift": 9.64,
+    "count": 24
+  },
+  "FEAR|CONFUSION": {
+    "weight": 0.108,
+    "p_b_given_a": 0.161,
+    "lift": 2.1,
+    "count": 9
+  },
+  "LONELINESS|ANXIETY_GENERAL": {
+    "weight": 0.148,
+    "p_b_given_a": 0.333,
+    "lift": 1.69,
+    "count": 2
+  },
+  "ANXIETY_GENERAL|LONELINESS": {
+    "weight": 0.005,
+    "p_b_given_a": 0.012,
+    "lift": 1.69,
+    "count": 2
+  },
+  "CONFUSION|FEAR": {
+    "weight": 0.094,
+    "p_b_given_a": 0.141,
+    "lift": 2.1,
+    "count": 9
+  },
+  "HORROR|ANXIETY_GENERAL": {
+    "weight": 0.694,
+    "p_b_given_a": 0.833,
+    "lift": 4.22,
+    "count": 15
+  },
+  "HORROR|SURPRISE_NEGATIVE": {
+    "weight": 0.516,
+    "p_b_given_a": 0.667,
+    "lift": 4.93,
+    "count": 12
+  },
+  "HORROR|FEAR": {
+    "weight": 0.573,
+    "p_b_given_a": 0.722,
+    "lift": 10.77,
+    "count": 13
+  },
+  "ANXIETY_GENERAL|HORROR": {
+    "weight": 0.066,
+    "p_b_given_a": 0.091,
+    "lift": 4.22,
+    "count": 15
+  },
+  "SURPRISE_NEGATIVE|HORROR": {
+    "weight": 0.075,
+    "p_b_given_a": 0.106,
+    "lift": 4.93,
+    "count": 12
+  },
+  "FEAR|HORROR": {
+    "weight": 0.168,
+    "p_b_given_a": 0.232,
+    "lift": 10.77,
+    "count": 13
+  },
+  "CALMNESS|CONTEMPLATION": {
+    "weight": 0.084,
+    "p_b_given_a": 0.117,
+    "lift": 2.95,
+    "count": 14
+  },
+  "CONTEMPLATION|CALMNESS": {
+    "weight": 0.32,
+    "p_b_given_a": 0.424,
+    "lift": 2.95,
+    "count": 14
+  },
+  "ANGER|CRAVING": {
+    "weight": 0.045,
+    "p_b_given_a": 0.07,
+    "lift": 2.79,
+    "count": 8
+  },
+  "CRAVING|ANGER": {
+    "weight": 0.259,
+    "p_b_given_a": 0.381,
+    "lift": 2.79,
+    "count": 8
+  },
+  "DOUBT|SURPRISE_NEGATIVE": {
+    "weight": 0.18,
+    "p_b_given_a": 0.235,
+    "lift": 1.73,
+    "count": 19
+  },
+  "SURPRISE_NEGATIVE|DOUBT": {
+    "weight": 0.128,
+    "p_b_given_a": 0.168,
+    "lift": 1.73,
+    "count": 19
+  },
+  "SADNESS|EMBARRASSMENT": {
+    "weight": 0.233,
+    "p_b_given_a": 0.302,
+    "lift": 1.72,
+    "count": 19
+  },
+  "EMBARRASSMENT|SADNESS": {
+    "weight": 0.099,
+    "p_b_given_a": 0.13,
+    "lift": 1.72,
+    "count": 19
+  },
+  "CONTENTMENT|AMUSEMENT": {
+    "weight": 0.286,
+    "p_b_given_a": 0.409,
+    "lift": 13.66,
+    "count": 9
+  },
+  "CONTENTMENT|RELIEF": {
+    "weight": 0.068,
+    "p_b_given_a": 0.136,
+    "lift": 16.27,
+    "count": 3
+  },
+  "CONTENTMENT|JOY": {
+    "weight": 0.5,
+    "p_b_given_a": 0.636,
+    "lift": 17.71,
+    "count": 14
+  },
+  "SATISFACTION|AMUSEMENT": {
+    "weight": 0.338,
+    "p_b_given_a": 0.5,
+    "lift": 16.7,
+    "count": 7
+  },
+  "SATISFACTION|RELIEF": {
+    "weight": 0.108,
+    "p_b_given_a": 0.214,
+    "lift": 25.56,
+    "count": 3
+  },
+  "SATISFACTION|JOY": {
+    "weight": 0.544,
+    "p_b_given_a": 0.714,
+    "lift": 19.88,
+    "count": 10
+  },
+  "AMUSEMENT|CONTENTMENT": {
+    "weight": 0.249,
+    "p_b_given_a": 0.36,
+    "lift": 13.66,
+    "count": 9
+  },
+  "AMUSEMENT|SATISFACTION": {
+    "weight": 0.181,
+    "p_b_given_a": 0.28,
+    "lift": 16.7,
+    "count": 7
+  },
+  "AMUSEMENT|RELIEF": {
+    "weight": 0.034,
+    "p_b_given_a": 0.08,
+    "lift": 9.54,
+    "count": 2
+  },
+  "AMUSEMENT|JOY": {
+    "weight": 0.512,
+    "p_b_given_a": 0.64,
+    "lift": 17.81,
+    "count": 16
+  },
+  "RELIEF|CONTENTMENT": {
+    "weight": 0.226,
+    "p_b_given_a": 0.429,
+    "lift": 16.27,
+    "count": 3
+  },
+  "RELIEF|SATISFACTION": {
+    "weight": 0.226,
+    "p_b_given_a": 0.429,
+    "lift": 25.56,
+    "count": 3
+  },
+  "RELIEF|AMUSEMENT": {
+    "weight": 0.125,
+    "p_b_given_a": 0.286,
+    "lift": 9.54,
+    "count": 2
+  },
+  "RELIEF|JOY": {
+    "weight": 0.125,
+    "p_b_given_a": 0.286,
+    "lift": 7.95,
+    "count": 2
+  },
+  "JOY|CONTENTMENT": {
+    "weight": 0.355,
+    "p_b_given_a": 0.467,
+    "lift": 17.71,
+    "count": 14
+  },
+  "JOY|SATISFACTION": {
+    "weight": 0.234,
+    "p_b_given_a": 0.333,
+    "lift": 19.88,
+    "count": 10
+  },
+  "JOY|AMUSEMENT": {
+    "weight": 0.418,
+    "p_b_given_a": 0.533,
+    "lift": 17.81,
+    "count": 16
+  },
+  "JOY|RELIEF": {
+    "weight": 0.028,
+    "p_b_given_a": 0.067,
+    "lift": 7.95,
+    "count": 2
+  },
+  "ANXIETY_GENERAL|GUILT": {
+    "weight": 0.041,
+    "p_b_given_a": 0.061,
+    "lift": 1.87,
+    "count": 10
+  },
+  "EMBARRASSMENT|GUILT": {
+    "weight": 0.093,
+    "p_b_given_a": 0.123,
+    "lift": 3.81,
+    "count": 18
+  },
+  "GUILT|ANXIETY_GENERAL": {
+    "weight": 0.262,
+    "p_b_given_a": 0.37,
+    "lift": 1.87,
+    "count": 10
+  },
+  "GUILT|EMBARRASSMENT": {
+    "weight": 0.544,
+    "p_b_given_a": 0.667,
+    "lift": 3.81,
+    "count": 18
+  },
+  "GUILT|FEAR": {
+    "weight": 0.137,
+    "p_b_given_a": 0.222,
+    "lift": 3.31,
+    "count": 6
+  },
+  "FEAR|GUILT": {
+    "weight": 0.065,
+    "p_b_given_a": 0.107,
+    "lift": 3.31,
+    "count": 6
+  },
+  "HORROR|EMBARRASSMENT": {
+    "weight": 0.305,
+    "p_b_given_a": 0.444,
+    "lift": 2.54,
+    "count": 8
+  },
+  "EMBARRASSMENT|HORROR": {
+    "weight": 0.035,
+    "p_b_given_a": 0.055,
+    "lift": 2.54,
+    "count": 8
+  },
+  "DISAPPOINTMENT|DOUBT": {
+    "weight": 0.104,
+    "p_b_given_a": 0.155,
+    "lift": 1.6,
+    "count": 9
+  },
+  "DOUBT|DISAPPOINTMENT": {
+    "weight": 0.074,
+    "p_b_given_a": 0.111,
+    "lift": 1.6,
+    "count": 9
+  },
+  "ENVY|FRUSTRATION": {
+    "weight": 0.632,
+    "p_b_given_a": 0.818,
+    "lift": 2.85,
+    "count": 9
+  },
+  "FRUSTRATION|ENVY": {
+    "weight": 0.025,
+    "p_b_given_a": 0.037,
+    "lift": 2.85,
+    "count": 9
+  },
+  "DISAPPOINTMENT|DISTRESS": {
+    "weight": 0.025,
+    "p_b_given_a": 0.052,
+    "lift": 1.31,
+    "count": 3
+  },
+  "DISAPPOINTMENT|SHAME": {
+    "weight": 0.014,
+    "p_b_given_a": 0.034,
+    "lift": 1.52,
+    "count": 2
+  },
+  "DISTRESS|DISAPPOINTMENT": {
+    "weight": 0.045,
+    "p_b_given_a": 0.091,
+    "lift": 1.31,
+    "count": 3
+  },
+  "DISTRESS|SHAME": {
+    "weight": 0.088,
+    "p_b_given_a": 0.152,
+    "lift": 6.66,
+    "count": 5
+  },
+  "SHAME|DISAPPOINTMENT": {
+    "weight": 0.045,
+    "p_b_given_a": 0.105,
+    "lift": 1.52,
+    "count": 2
+  },
+  "SHAME|DISTRESS": {
+    "weight": 0.156,
+    "p_b_given_a": 0.263,
+    "lift": 6.66,
+    "count": 5
+  },
+  "SADNESS|TIREDNESS": {
+    "weight": 0.163,
+    "p_b_given_a": 0.222,
+    "lift": 2.58,
+    "count": 14
+  },
+  "TIREDNESS|SADNESS": {
+    "weight": 0.142,
+    "p_b_given_a": 0.194,
+    "lift": 2.58,
+    "count": 14
+  },
+  "SADNESS|SHAME": {
+    "weight": 0.07,
+    "p_b_given_a": 0.111,
+    "lift": 4.88,
+    "count": 7
+  },
+  "EMBARRASSMENT|SHAME": {
+    "weight": 0.075,
+    "p_b_given_a": 0.103,
+    "lift": 4.52,
+    "count": 15
+  },
+  "EMBARRASSMENT|DISTRESS": {
+    "weight": 0.046,
+    "p_b_given_a": 0.068,
+    "lift": 1.73,
+    "count": 10
+  },
+  "SHAME|SADNESS": {
+    "weight": 0.243,
+    "p_b_given_a": 0.368,
+    "lift": 4.88,
+    "count": 7
+  },
+  "SHAME|EMBARRASSMENT": {
+    "weight": 0.649,
+    "p_b_given_a": 0.789,
+    "lift": 4.52,
+    "count": 15
+  },
+  "SHAME|CONFUSION": {
+    "weight": 0.079,
+    "p_b_given_a": 0.158,
+    "lift": 2.06,
+    "count": 3
+  },
+  "CONFUSION|SHAME": {
+    "weight": 0.023,
+    "p_b_given_a": 0.047,
+    "lift": 2.06,
+    "count": 3
+  },
+  "CONFUSION|DISTRESS": {
+    "weight": 0.045,
+    "p_b_given_a": 0.078,
+    "lift": 1.98,
+    "count": 5
+  },
+  "DISTRESS|EMBARRASSMENT": {
+    "weight": 0.212,
+    "p_b_given_a": 0.303,
+    "lift": 1.73,
+    "count": 10
+  },
+  "DISTRESS|CONFUSION": {
+    "weight": 0.088,
+    "p_b_given_a": 0.152,
+    "lift": 1.98,
+    "count": 5
+  },
+  "SADNESS|GUILT": {
+    "weight": 0.122,
+    "p_b_given_a": 0.175,
+    "lift": 5.4,
+    "count": 11
+  },
+  "DISTRESS|GUILT": {
+    "weight": 0.186,
+    "p_b_given_a": 0.273,
+    "lift": 8.43,
+    "count": 9
+  },
+  "GUILT|SADNESS": {
+    "weight": 0.295,
+    "p_b_given_a": 0.407,
+    "lift": 5.4,
+    "count": 11
+  },
+  "GUILT|DISTRESS": {
+    "weight": 0.23,
+    "p_b_given_a": 0.333,
+    "lift": 8.43,
+    "count": 9
+  },
+  "SHAME|GUILT": {
+    "weight": 0.243,
+    "p_b_given_a": 0.368,
+    "lift": 11.39,
+    "count": 7
+  },
+  "SHAME|ANXIETY_GENERAL": {
+    "weight": 0.199,
+    "p_b_given_a": 0.316,
+    "lift": 1.6,
+    "count": 6
+  },
+  "GUILT|SHAME": {
+    "weight": 0.167,
+    "p_b_given_a": 0.259,
+    "lift": 11.39,
+    "count": 7
+  },
+  "ANXIETY_GENERAL|SHAME": {
+    "weight": 0.022,
+    "p_b_given_a": 0.036,
+    "lift": 1.6,
+    "count": 6
+  },
+  "AWKWARDNESS|GUILT": {
+    "weight": 0.028,
+    "p_b_given_a": 0.058,
+    "lift": 1.78,
+    "count": 3
+  },
+  "GUILT|AWKWARDNESS": {
+    "weight": 0.055,
+    "p_b_given_a": 0.111,
+    "lift": 1.78,
+    "count": 3
+  },
+  "REALIZATION|CONCENTRATION": {
+    "weight": 0.272,
+    "p_b_given_a": 0.391,
+    "lift": 3.63,
+    "count": 9
+  },
+  "SURPRISE_POSITIVE|CONCENTRATION": {
+    "weight": 0.102,
+    "p_b_given_a": 0.167,
+    "lift": 1.55,
+    "count": 6
+  },
+  "CONCENTRATION|REALIZATION": {
+    "weight": 0.066,
+    "p_b_given_a": 0.1,
+    "lift": 3.63,
+    "count": 9
+  },
+  "CONCENTRATION|SURPRISE_POSITIVE": {
+    "weight": 0.04,
+    "p_b_given_a": 0.067,
+    "lift": 1.55,
+    "count": 6
+  },
+  "DISAPPOINTMENT|CONTEMPT": {
+    "weight": 0.192,
+    "p_b_given_a": 0.259,
+    "lift": 2.67,
+    "count": 15
+  },
+  "CONTEMPT|DISAPPOINTMENT": {
+    "weight": 0.136,
+    "p_b_given_a": 0.185,
+    "lift": 2.67,
+    "count": 15
+  },
+  "ANGER|DOUBT": {
+    "weight": 0.142,
+    "p_b_given_a": 0.184,
+    "lift": 1.9,
+    "count": 21
+  },
+  "DOUBT|ANGER": {
+    "weight": 0.202,
+    "p_b_given_a": 0.259,
+    "lift": 1.9,
+    "count": 21
+  },
+  "EMPATHIC_PAIN|EMBARRASSMENT": {
+    "weight": 0.165,
+    "p_b_given_a": 0.243,
+    "lift": 1.39,
+    "count": 9
+  },
+  "EMBARRASSMENT|EMPATHIC_PAIN": {
+    "weight": 0.041,
+    "p_b_given_a": 0.062,
+    "lift": 1.39,
+    "count": 9
+  },
+  "SURPRISE_POSITIVE|AWKWARDNESS": {
+    "weight": 0.041,
+    "p_b_given_a": 0.083,
+    "lift": 1.34,
+    "count": 3
+  },
+  "AWKWARDNESS|SURPRISE_POSITIVE": {
+    "weight": 0.028,
+    "p_b_given_a": 0.058,
+    "lift": 1.34,
+    "count": 3
+  },
+  "CALMNESS|AMUSEMENT": {
+    "weight": 0.024,
+    "p_b_given_a": 0.042,
+    "lift": 1.39,
+    "count": 5
+  },
+  "AMUSEMENT|CALMNESS": {
+    "weight": 0.118,
+    "p_b_given_a": 0.2,
+    "lift": 1.39,
+    "count": 5
+  },
+  "JOY|SURPRISE_POSITIVE": {
+    "weight": 0.073,
+    "p_b_given_a": 0.133,
+    "lift": 3.09,
+    "count": 4
+  },
+  "SURPRISE_POSITIVE|JOY": {
+    "weight": 0.06,
+    "p_b_given_a": 0.111,
+    "lift": 3.09,
+    "count": 4
+  },
+  "INTEREST|AWE": {
+    "weight": 0.022,
+    "p_b_given_a": 0.045,
+    "lift": 2.88,
+    "count": 3
+  },
+  "AWE|INTEREST": {
+    "weight": 0.117,
+    "p_b_given_a": 0.231,
+    "lift": 2.88,
+    "count": 3
+  },
+  "AWE|CONFUSION": {
+    "weight": 0.066,
+    "p_b_given_a": 0.154,
+    "lift": 2.01,
+    "count": 2
+  },
+  "CONFUSION|AWE": {
+    "weight": 0.013,
+    "p_b_given_a": 0.031,
+    "lift": 2.01,
+    "count": 2
+  },
+  "SURPRISE_POSITIVE|AWE": {
+    "weight": 0.17,
+    "p_b_given_a": 0.25,
+    "lift": 16.06,
+    "count": 9
+  },
+  "AWE|SURPRISE_POSITIVE": {
+    "weight": 0.515,
+    "p_b_given_a": 0.692,
+    "lift": 16.06,
+    "count": 9
+  },
+  "SURPRISE_POSITIVE|ADMIRATION": {
+    "weight": 0.102,
+    "p_b_given_a": 0.167,
+    "lift": 10.71,
+    "count": 6
+  },
+  "ADMIRATION|SURPRISE_POSITIVE": {
+    "weight": 0.299,
+    "p_b_given_a": 0.462,
+    "lift": 10.71,
+    "count": 6
+  },
+  "DISAPPOINTMENT|EMPATHIC_PAIN": {
+    "weight": 0.037,
+    "p_b_given_a": 0.069,
+    "lift": 1.56,
+    "count": 4
+  },
+  "EMPATHIC_PAIN|DISAPPOINTMENT": {
+    "weight": 0.059,
+    "p_b_given_a": 0.108,
+    "lift": 1.56,
+    "count": 4
+  },
+  "EMPATHIC_PAIN|SADNESS": {
+    "weight": 0.308,
+    "p_b_given_a": 0.405,
+    "lift": 5.37,
+    "count": 15
+  },
+  "SADNESS|EMPATHIC_PAIN": {
+    "weight": 0.177,
+    "p_b_given_a": 0.238,
+    "lift": 5.37,
+    "count": 15
+  },
+  "NOSTALGIA|SYMPATHY": {
+    "weight": 0.109,
+    "p_b_given_a": 0.25,
+    "lift": 4.54,
+    "count": 2
+  },
+  "NOSTALGIA|EMPATHIC_PAIN": {
+    "weight": 0.109,
+    "p_b_given_a": 0.25,
+    "lift": 5.64,
+    "count": 2
+  },
+  "NOSTALGIA|CONTEMPLATION": {
+    "weight": 0.196,
+    "p_b_given_a": 0.375,
+    "lift": 9.49,
+    "count": 3
+  },
+  "REALIZATION|SYMPATHY": {
+    "weight": 0.065,
+    "p_b_given_a": 0.13,
+    "lift": 2.37,
+    "count": 3
+  },
+  "REALIZATION|EMPATHIC_PAIN": {
+    "weight": 0.095,
+    "p_b_given_a": 0.174,
+    "lift": 3.92,
+    "count": 4
+  },
+  "REALIZATION|CONTEMPLATION": {
+    "weight": 0.095,
+    "p_b_given_a": 0.174,
+    "lift": 4.4,
+    "count": 4
+  },
+  "SYMPATHY|NOSTALGIA": {
+    "weight": 0.018,
+    "p_b_given_a": 0.043,
+    "lift": 4.54,
+    "count": 2
+  },
+  "SYMPATHY|REALIZATION": {
+    "weight": 0.032,
+    "p_b_given_a": 0.065,
+    "lift": 2.37,
+    "count": 3
+  },
+  "EMPATHIC_PAIN|NOSTALGIA": {
+    "weight": 0.023,
+    "p_b_given_a": 0.054,
+    "lift": 5.64,
+    "count": 2
+  },
+  "EMPATHIC_PAIN|REALIZATION": {
+    "weight": 0.059,
+    "p_b_given_a": 0.108,
+    "lift": 3.92,
+    "count": 4
+  },
+  "EMPATHIC_PAIN|CONTEMPLATION": {
+    "weight": 0.04,
+    "p_b_given_a": 0.081,
+    "lift": 2.05,
+    "count": 3
+  },
+  "CONTEMPLATION|NOSTALGIA": {
+    "weight": 0.045,
+    "p_b_given_a": 0.091,
+    "lift": 9.49,
+    "count": 3
+  },
+  "CONTEMPLATION|REALIZATION": {
+    "weight": 0.066,
+    "p_b_given_a": 0.121,
+    "lift": 4.4,
+    "count": 4
+  },
+  "CONTEMPLATION|EMPATHIC_PAIN": {
+    "weight": 0.045,
+    "p_b_given_a": 0.091,
+    "lift": 2.05,
+    "count": 3
+  },
+  "EMPATHIC_PAIN|CONFUSION": {
+    "weight": 0.059,
+    "p_b_given_a": 0.108,
+    "lift": 1.41,
+    "count": 4
+  },
+  "CONFUSION|EMPATHIC_PAIN": {
+    "weight": 0.034,
+    "p_b_given_a": 0.062,
+    "lift": 1.41,
+    "count": 4
+  },
+  "FRUSTRATION|CRAVING": {
+    "weight": 0.042,
+    "p_b_given_a": 0.058,
+    "lift": 2.32,
+    "count": 14
+  },
+  "CRAVING|FRUSTRATION": {
+    "weight": 0.527,
+    "p_b_given_a": 0.667,
+    "lift": 2.32,
+    "count": 14
+  },
+  "EXCITEMENT|AMUSEMENT": {
+    "weight": 0.276,
+    "p_b_given_a": 0.368,
+    "lift": 12.31,
+    "count": 14
+  },
+  "EXCITEMENT|INTEREST": {
+    "weight": 0.206,
+    "p_b_given_a": 0.289,
+    "lift": 3.61,
+    "count": 11
+  },
+  "AMUSEMENT|EXCITEMENT": {
+    "weight": 0.433,
+    "p_b_given_a": 0.56,
+    "lift": 12.31,
+    "count": 14
+  },
+  "AMUSEMENT|INTEREST": {
+    "weight": 0.181,
+    "p_b_given_a": 0.28,
+    "lift": 3.49,
+    "count": 7
+  },
+  "INTEREST|EXCITEMENT": {
+    "weight": 0.114,
+    "p_b_given_a": 0.164,
+    "lift": 3.61,
+    "count": 11
+  },
+  "INTEREST|AMUSEMENT": {
+    "weight": 0.066,
+    "p_b_given_a": 0.104,
+    "lift": 3.49,
+    "count": 7
+  },
+  "INTEREST|JOY": {
+    "weight": 0.032,
+    "p_b_given_a": 0.06,
+    "lift": 1.66,
+    "count": 4
+  },
+  "JOY|INTEREST": {
+    "weight": 0.073,
+    "p_b_given_a": 0.133,
+    "lift": 1.66,
+    "count": 4
+  },
+  "TIREDNESS|BOREDOM": {
+    "weight": 0.061,
+    "p_b_given_a": 0.097,
+    "lift": 6.24,
+    "count": 7
+  },
+  "BOREDOM|TIREDNESS": {
+    "weight": 0.367,
+    "p_b_given_a": 0.538,
+    "lift": 6.24,
+    "count": 7
+  },
+  "EMPATHIC_PAIN|DISTRESS": {
+    "weight": 0.059,
+    "p_b_given_a": 0.108,
+    "lift": 2.74,
+    "count": 4
+  },
+  "DISTRESS|EMPATHIC_PAIN": {
+    "weight": 0.066,
+    "p_b_given_a": 0.121,
+    "lift": 2.74,
+    "count": 4
+  },
+  "INTEREST|SURPRISE_POSITIVE": {
+    "weight": 0.09,
+    "p_b_given_a": 0.134,
+    "lift": 3.12,
+    "count": 9
+  },
+  "SURPRISE_POSITIVE|INTEREST": {
+    "weight": 0.17,
+    "p_b_given_a": 0.25,
+    "lift": 3.12,
+    "count": 9
+  },
+  "ENVY|ANGER": {
+    "weight": 0.281,
+    "p_b_given_a": 0.455,
+    "lift": 3.33,
+    "count": 5
+  },
+  "ANGER|ENVY": {
+    "weight": 0.025,
+    "p_b_given_a": 0.044,
+    "lift": 3.33,
+    "count": 5
+  },
+  "DISGUST|DOUBT": {
+    "weight": 0.125,
+    "p_b_given_a": 0.176,
+    "lift": 1.82,
+    "count": 12
+  },
+  "CONTEMPT|DOUBT": {
+    "weight": 0.147,
+    "p_b_given_a": 0.198,
+    "lift": 2.04,
+    "count": 16
+  },
+  "DOUBT|DISGUST": {
+    "weight": 0.105,
+    "p_b_given_a": 0.148,
+    "lift": 1.82,
+    "count": 12
+  },
+  "DOUBT|CONTEMPT": {
+    "weight": 0.147,
+    "p_b_given_a": 0.198,
+    "lift": 2.04,
+    "count": 16
+  },
+  "NOSTALGIA|TIREDNESS": {
+    "weight": 0.196,
+    "p_b_given_a": 0.375,
+    "lift": 4.35,
+    "count": 3
+  },
+  "SYMPATHY|BOREDOM": {
+    "weight": 0.018,
+    "p_b_given_a": 0.043,
+    "lift": 2.79,
+    "count": 2
+  },
+  "BOREDOM|SYMPATHY": {
+    "weight": 0.066,
+    "p_b_given_a": 0.154,
+    "lift": 2.79,
+    "count": 2
+  },
+  "BOREDOM|EMPATHIC_PAIN": {
+    "weight": 0.066,
+    "p_b_given_a": 0.154,
+    "lift": 3.47,
+    "count": 2
+  },
+  "EMPATHIC_PAIN|BOREDOM": {
+    "weight": 0.023,
+    "p_b_given_a": 0.054,
+    "lift": 3.47,
+    "count": 2
+  },
+  "TIREDNESS|NOSTALGIA": {
+    "weight": 0.02,
+    "p_b_given_a": 0.042,
+    "lift": 4.35,
+    "count": 3
+  },
+  "CALMNESS|BOREDOM": {
+    "weight": 0.012,
+    "p_b_given_a": 0.025,
+    "lift": 1.61,
+    "count": 3
+  },
+  "BOREDOM|CALMNESS": {
+    "weight": 0.117,
+    "p_b_given_a": 0.231,
+    "lift": 1.61,
+    "count": 3
+  },
+  "AWKWARDNESS|FEAR": {
+    "weight": 0.056,
+    "p_b_given_a": 0.096,
+    "lift": 1.43,
+    "count": 5
+  },
+  "FEAR|AWKWARDNESS": {
+    "weight": 0.051,
+    "p_b_given_a": 0.089,
+    "lift": 1.43,
+    "count": 5
+  },
+  "LOVE|EXCITEMENT": {
+    "weight": 0.161,
+    "p_b_given_a": 0.25,
+    "lift": 5.49,
+    "count": 7
+  },
+  "DETERMINATION|EXCITEMENT": {
+    "weight": 0.229,
+    "p_b_given_a": 0.316,
+    "lift": 6.94,
+    "count": 12
+  },
+  "EXCITEMENT|LOVE": {
+    "weight": 0.117,
+    "p_b_given_a": 0.184,
+    "lift": 5.49,
+    "count": 7
+  },
+  "EXCITEMENT|DETERMINATION": {
+    "weight": 0.229,
+    "p_b_given_a": 0.316,
+    "lift": 6.94,
+    "count": 12
+  },
+  "CALMNESS|LOVE": {
+    "weight": 0.056,
+    "p_b_given_a": 0.083,
+    "lift": 2.49,
+    "count": 10
+  },
+  "LOVE|CALMNESS": {
+    "weight": 0.252,
+    "p_b_given_a": 0.357,
+    "lift": 2.49,
+    "count": 10
+  },
+  "LOVE|CONCENTRATION": {
+    "weight": 0.078,
+    "p_b_given_a": 0.143,
+    "lift": 1.33,
+    "count": 4
+  },
+  "CONCENTRATION|LOVE": {
+    "weight": 0.024,
+    "p_b_given_a": 0.044,
+    "lift": 1.33,
+    "count": 4
+  },
+  "CONTENTMENT|EXCITEMENT": {
+    "weight": 0.208,
+    "p_b_given_a": 0.318,
+    "lift": 6.99,
+    "count": 7
+  },
+  "CONTENTMENT|TRIUMPH": {
+    "weight": 0.208,
+    "p_b_given_a": 0.318,
+    "lift": 24.15,
+    "count": 7
+  },
+  "PRIDE|AMUSEMENT": {
+    "weight": 0.136,
+    "p_b_given_a": 0.212,
+    "lift": 7.08,
+    "count": 7
+  },
+  "PRIDE|TRIUMPH": {
+    "weight": 0.161,
+    "p_b_given_a": 0.242,
+    "lift": 18.4,
+    "count": 8
+  },
+  "EXCITEMENT|CONTENTMENT": {
+    "weight": 0.117,
+    "p_b_given_a": 0.184,
+    "lift": 6.99,
+    "count": 7
+  },
+  "EXCITEMENT|TRIUMPH": {
+    "weight": 0.076,
+    "p_b_given_a": 0.132,
+    "lift": 9.99,
+    "count": 5
+  },
+  "AMUSEMENT|PRIDE": {
+    "weight": 0.181,
+    "p_b_given_a": 0.28,
+    "lift": 7.08,
+    "count": 7
+  },
+  "AMUSEMENT|TRIUMPH": {
+    "weight": 0.059,
+    "p_b_given_a": 0.12,
+    "lift": 9.11,
+    "count": 3
+  },
+  "TRIUMPH|CONTENTMENT": {
+    "weight": 0.445,
+    "p_b_given_a": 0.636,
+    "lift": 24.15,
+    "count": 7
+  },
+  "TRIUMPH|PRIDE": {
+    "weight": 0.535,
+    "p_b_given_a": 0.727,
+    "lift": 18.4,
+    "count": 8
+  },
+  "TRIUMPH|EXCITEMENT": {
+    "weight": 0.281,
+    "p_b_given_a": 0.455,
+    "lift": 9.99,
+    "count": 5
+  },
+  "TRIUMPH|AMUSEMENT": {
+    "weight": 0.139,
+    "p_b_given_a": 0.273,
+    "lift": 9.11,
+    "count": 3
+  },
+  "TRIUMPH|JOY": {
+    "weight": 0.207,
+    "p_b_given_a": 0.364,
+    "lift": 10.12,
+    "count": 4
+  },
+  "JOY|TRIUMPH": {
+    "weight": 0.073,
+    "p_b_given_a": 0.133,
+    "lift": 10.12,
+    "count": 4
+  },
+  "LOVE|INTEREST": {
+    "weight": 0.053,
+    "p_b_given_a": 0.107,
+    "lift": 1.34,
+    "count": 3
+  },
+  "LOVE|JOY": {
+    "weight": 0.105,
+    "p_b_given_a": 0.179,
+    "lift": 4.97,
+    "count": 5
+  },
+  "INTEREST|LOVE": {
+    "weight": 0.022,
+    "p_b_given_a": 0.045,
+    "lift": 1.34,
+    "count": 3
+  },
+  "JOY|LOVE": {
+    "weight": 0.097,
+    "p_b_given_a": 0.167,
+    "lift": 4.97,
+    "count": 5
+  },
+  "HORROR|CONFUSION": {
+    "weight": 0.123,
+    "p_b_given_a": 0.222,
+    "lift": 2.9,
+    "count": 4
+  },
+  "CONFUSION|HORROR": {
+    "weight": 0.034,
+    "p_b_given_a": 0.062,
+    "lift": 2.9,
+    "count": 4
+  },
+  "LOVE|AMUSEMENT": {
+    "weight": 0.078,
+    "p_b_given_a": 0.143,
+    "lift": 4.77,
+    "count": 4
+  },
+  "AMUSEMENT|LOVE": {
+    "weight": 0.088,
+    "p_b_given_a": 0.16,
+    "lift": 4.77,
+    "count": 4
+  },
+  "EXCITEMENT|CONCENTRATION": {
+    "weight": 0.139,
+    "p_b_given_a": 0.211,
+    "lift": 1.95,
+    "count": 8
+  },
+  "AMUSEMENT|DETERMINATION": {
+    "weight": 0.034,
+    "p_b_given_a": 0.08,
+    "lift": 1.76,
+    "count": 2
+  },
+  "AMUSEMENT|CONCENTRATION": {
+    "weight": 0.088,
+    "p_b_given_a": 0.16,
+    "lift": 1.48,
+    "count": 4
+  },
+  "DETERMINATION|AMUSEMENT": {
+    "weight": 0.022,
+    "p_b_given_a": 0.053,
+    "lift": 1.76,
+    "count": 2
+  },
+  "CONCENTRATION|EXCITEMENT": {
+    "weight": 0.057,
+    "p_b_given_a": 0.089,
+    "lift": 1.95,
+    "count": 8
+  },
+  "CONCENTRATION|AMUSEMENT": {
+    "weight": 0.024,
+    "p_b_given_a": 0.044,
+    "lift": 1.48,
+    "count": 4
+  },
+  "FEAR|SHAME": {
+    "weight": 0.015,
+    "p_b_given_a": 0.036,
+    "lift": 1.57,
+    "count": 2
+  },
+  "SHAME|FEAR": {
+    "weight": 0.045,
+    "p_b_given_a": 0.105,
+    "lift": 1.57,
+    "count": 2
+  },
+  "CONTEMPLATION|LOVE": {
+    "weight": 0.045,
+    "p_b_given_a": 0.091,
+    "lift": 2.71,
+    "count": 3
+  },
+  "LOVE|CONTEMPLATION": {
+    "weight": 0.053,
+    "p_b_given_a": 0.107,
+    "lift": 2.71,
+    "count": 3
+  },
+  "LOVE|CONTENTMENT": {
+    "weight": 0.053,
+    "p_b_given_a": 0.107,
+    "lift": 4.07,
+    "count": 3
+  },
+  "LOVE|PRIDE": {
+    "weight": 0.105,
+    "p_b_given_a": 0.179,
+    "lift": 4.52,
+    "count": 5
+  },
+  "LOVE|SATISFACTION": {
+    "weight": 0.03,
+    "p_b_given_a": 0.071,
+    "lift": 4.26,
+    "count": 2
+  },
+  "CONTENTMENT|LOVE": {
+    "weight": 0.068,
+    "p_b_given_a": 0.136,
+    "lift": 4.07,
+    "count": 3
+  },
+  "CONTENTMENT|ECSTASY": {
+    "weight": 0.038,
+    "p_b_given_a": 0.091,
+    "lift": 25.3,
+    "count": 2
+  },
+  "PRIDE|LOVE": {
+    "weight": 0.088,
+    "p_b_given_a": 0.152,
+    "lift": 4.52,
+    "count": 5
+  },
+  "PRIDE|SATISFACTION": {
+    "weight": 0.045,
+    "p_b_given_a": 0.091,
+    "lift": 5.42,
+    "count": 3
+  },
+  "PRIDE|ECSTASY": {
+    "weight": 0.025,
+    "p_b_given_a": 0.061,
+    "lift": 16.87,
+    "count": 2
+  },
+  "EXCITEMENT|SATISFACTION": {
+    "weight": 0.057,
+    "p_b_given_a": 0.105,
+    "lift": 6.28,
+    "count": 4
+  },
+  "EXCITEMENT|ECSTASY": {
+    "weight": 0.022,
+    "p_b_given_a": 0.053,
+    "lift": 14.65,
+    "count": 2
+  },
+  "AMUSEMENT|ECSTASY": {
+    "weight": 0.034,
+    "p_b_given_a": 0.08,
+    "lift": 22.27,
+    "count": 2
+  },
+  "SATISFACTION|LOVE": {
+    "weight": 0.061,
+    "p_b_given_a": 0.143,
+    "lift": 4.26,
+    "count": 2
+  },
+  "SATISFACTION|PRIDE": {
+    "weight": 0.108,
+    "p_b_given_a": 0.214,
+    "lift": 5.42,
+    "count": 3
+  },
+  "SATISFACTION|EXCITEMENT": {
+    "weight": 0.16,
+    "p_b_given_a": 0.286,
+    "lift": 6.28,
+    "count": 4
+  },
+  "ECSTASY|CONTENTMENT": {
+    "weight": 0.322,
+    "p_b_given_a": 0.667,
+    "lift": 25.3,
+    "count": 2
+  },
+  "ECSTASY|PRIDE": {
+    "weight": 0.322,
+    "p_b_given_a": 0.667,
+    "lift": 16.87,
+    "count": 2
+  },
+  "ECSTASY|EXCITEMENT": {
+    "weight": 0.322,
+    "p_b_given_a": 0.667,
+    "lift": 14.65,
+    "count": 2
+  },
+  "ECSTASY|AMUSEMENT": {
+    "weight": 0.322,
+    "p_b_given_a": 0.667,
+    "lift": 22.27,
+    "count": 2
+  },
+  "ECSTASY|JOY": {
+    "weight": 0.647,
+    "p_b_given_a": 1.0,
+    "lift": 27.83,
+    "count": 3
+  },
+  "JOY|ECSTASY": {
+    "weight": 0.049,
+    "p_b_given_a": 0.1,
+    "lift": 27.83,
+    "count": 3
+  },
+  "INTEREST|RELIEF": {
+    "weight": 0.032,
+    "p_b_given_a": 0.06,
+    "lift": 7.12,
+    "count": 4
+  },
+  "RELIEF|INTEREST": {
+    "weight": 0.342,
+    "p_b_given_a": 0.571,
+    "lift": 7.12,
+    "count": 4
+  },
+  "SURPRISE_POSITIVE|ADORATION": {
+    "weight": 0.041,
+    "p_b_given_a": 0.083,
+    "lift": 13.92,
+    "count": 3
+  },
+  "ADORATION|SURPRISE_POSITIVE": {
+    "weight": 0.331,
+    "p_b_given_a": 0.6,
+    "lift": 13.92,
+    "count": 3
+  },
+  "ADORATION|AWE": {
+    "weight": 0.18,
+    "p_b_given_a": 0.4,
+    "lift": 25.69,
+    "count": 2
+  },
+  "ADORATION|AESTHETIC_APPRECIATION": {
+    "weight": 0.18,
+    "p_b_given_a": 0.4,
+    "lift": 83.5,
+    "count": 2
+  },
+  "AWE|ADORATION": {
+    "weight": 0.066,
+    "p_b_given_a": 0.154,
+    "lift": 25.69,
+    "count": 2
+  },
+  "AESTHETIC_APPRECIATION|ADORATION": {
+    "weight": 0.23,
+    "p_b_given_a": 0.5,
+    "lift": 83.5,
+    "count": 2
+  },
+  "CONTENTMENT|DETERMINATION": {
+    "weight": 0.038,
+    "p_b_given_a": 0.091,
+    "lift": 2.0,
+    "count": 2
+  },
+  "PRIDE|DETERMINATION": {
+    "weight": 0.265,
+    "p_b_given_a": 0.364,
+    "lift": 7.99,
+    "count": 12
+  },
+  "SATISFACTION|TRIUMPH": {
+    "weight": 0.16,
+    "p_b_given_a": 0.286,
+    "lift": 21.69,
+    "count": 4
+  },
+  "DETERMINATION|CONTENTMENT": {
+    "weight": 0.022,
+    "p_b_given_a": 0.053,
+    "lift": 2.0,
+    "count": 2
+  },
+  "DETERMINATION|PRIDE": {
+    "weight": 0.229,
+    "p_b_given_a": 0.316,
+    "lift": 7.99,
+    "count": 12
+  },
+  "DETERMINATION|TRIUMPH": {
+    "weight": 0.022,
+    "p_b_given_a": 0.053,
+    "lift": 4.0,
+    "count": 2
+  },
+  "TRIUMPH|SATISFACTION": {
+    "weight": 0.207,
+    "p_b_given_a": 0.364,
+    "lift": 21.69,
+    "count": 4
+  },
+  "TRIUMPH|DETERMINATION": {
+    "weight": 0.078,
+    "p_b_given_a": 0.182,
+    "lift": 4.0,
+    "count": 2
+  },
+  "LOVE|SADNESS": {
+    "weight": 0.053,
+    "p_b_given_a": 0.107,
+    "lift": 1.42,
+    "count": 3
+  },
+  "SADNESS|LOVE": {
+    "weight": 0.023,
+    "p_b_given_a": 0.048,
+    "lift": 1.42,
+    "count": 3
+  },
+  "EXCITEMENT|AWKWARDNESS": {
+    "weight": 0.057,
+    "p_b_given_a": 0.105,
+    "lift": 1.69,
+    "count": 4
+  },
+  "AWKWARDNESS|EXCITEMENT": {
+    "weight": 0.042,
+    "p_b_given_a": 0.077,
+    "lift": 1.69,
+    "count": 4
+  },
+  "TRIUMPH|CONCENTRATION": {
+    "weight": 0.139,
+    "p_b_given_a": 0.273,
+    "lift": 2.53,
+    "count": 3
+  },
+  "CONCENTRATION|TRIUMPH": {
+    "weight": 0.016,
+    "p_b_given_a": 0.033,
+    "lift": 2.53,
+    "count": 3
+  },
+  "ANXIETY_GENERAL|CRAVING": {
+    "weight": 0.036,
+    "p_b_given_a": 0.055,
+    "lift": 2.17,
+    "count": 9
+  },
+  "CRAVING|ANXIETY_GENERAL": {
+    "weight": 0.301,
+    "p_b_given_a": 0.429,
+    "lift": 2.17,
+    "count": 9
+  },
+  "DISAPPOINTMENT|CRAVING": {
+    "weight": 0.014,
+    "p_b_given_a": 0.034,
+    "lift": 1.37,
+    "count": 2
+  },
+  "CRAVING|DISAPPOINTMENT": {
+    "weight": 0.04,
+    "p_b_given_a": 0.095,
+    "lift": 1.37,
+    "count": 2
+  },
+  "FEAR|CRAVING": {
+    "weight": 0.026,
+    "p_b_given_a": 0.054,
+    "lift": 2.13,
+    "count": 3
+  },
+  "CRAVING|FEAR": {
+    "weight": 0.071,
+    "p_b_given_a": 0.143,
+    "lift": 2.13,
+    "count": 3
+  },
+  "INTEREST|ADMIRATION": {
+    "weight": 0.043,
+    "p_b_given_a": 0.075,
+    "lift": 4.79,
+    "count": 5
+  },
+  "ADMIRATION|INTEREST": {
+    "weight": 0.234,
+    "p_b_given_a": 0.385,
+    "lift": 4.79,
+    "count": 5
+  },
+  "EXCITEMENT|REALIZATION": {
+    "weight": 0.022,
+    "p_b_given_a": 0.053,
+    "lift": 1.91,
+    "count": 2
+  },
+  "EXCITEMENT|ADMIRATION": {
+    "weight": 0.022,
+    "p_b_given_a": 0.053,
+    "lift": 3.38,
+    "count": 2
+  },
+  "REALIZATION|EXCITEMENT": {
+    "weight": 0.037,
+    "p_b_given_a": 0.087,
+    "lift": 1.91,
+    "count": 2
+  },
+  "REALIZATION|ADMIRATION": {
+    "weight": 0.037,
+    "p_b_given_a": 0.087,
+    "lift": 5.59,
+    "count": 2
+  },
+  "REALIZATION|JOY": {
+    "weight": 0.037,
+    "p_b_given_a": 0.087,
+    "lift": 2.42,
+    "count": 2
+  },
+  "ADMIRATION|EXCITEMENT": {
+    "weight": 0.066,
+    "p_b_given_a": 0.154,
+    "lift": 3.38,
+    "count": 2
+  },
+  "ADMIRATION|REALIZATION": {
+    "weight": 0.066,
+    "p_b_given_a": 0.154,
+    "lift": 5.59,
+    "count": 2
+  },
+  "ADMIRATION|JOY": {
+    "weight": 0.234,
+    "p_b_given_a": 0.385,
+    "lift": 10.71,
+    "count": 5
+  },
+  "JOY|REALIZATION": {
+    "weight": 0.028,
+    "p_b_given_a": 0.067,
+    "lift": 2.42,
+    "count": 2
+  },
+  "JOY|ADMIRATION": {
+    "weight": 0.097,
+    "p_b_given_a": 0.167,
+    "lift": 10.71,
+    "count": 5
+  },
+  "LOVE|ADMIRATION": {
+    "weight": 0.053,
+    "p_b_given_a": 0.107,
+    "lift": 6.88,
+    "count": 3
+  },
+  "CONTENTMENT|ADMIRATION": {
+    "weight": 0.1,
+    "p_b_given_a": 0.182,
+    "lift": 11.68,
+    "count": 4
+  },
+  "PRIDE|ADMIRATION": {
+    "weight": 0.025,
+    "p_b_given_a": 0.061,
+    "lift": 3.89,
+    "count": 2
+  },
+  "ADMIRATION|LOVE": {
+    "weight": 0.117,
+    "p_b_given_a": 0.231,
+    "lift": 6.88,
+    "count": 3
+  },
+  "ADMIRATION|CONTENTMENT": {
+    "weight": 0.173,
+    "p_b_given_a": 0.308,
+    "lift": 11.68,
+    "count": 4
+  },
+  "ADMIRATION|PRIDE": {
+    "weight": 0.066,
+    "p_b_given_a": 0.154,
+    "lift": 3.89,
+    "count": 2
+  },
+  "SADNESS|CRAVING": {
+    "weight": 0.023,
+    "p_b_given_a": 0.048,
+    "lift": 1.89,
+    "count": 3
+  },
+  "DISTRESS|CRAVING": {
+    "weight": 0.025,
+    "p_b_given_a": 0.061,
+    "lift": 2.41,
+    "count": 2
+  },
+  "CRAVING|SADNESS": {
+    "weight": 0.071,
+    "p_b_given_a": 0.143,
+    "lift": 1.89,
+    "count": 3
+  },
+  "CRAVING|DISTRESS": {
+    "weight": 0.04,
+    "p_b_given_a": 0.095,
+    "lift": 2.41,
+    "count": 2
+  },
+  "REALIZATION|PRIDE": {
+    "weight": 0.037,
+    "p_b_given_a": 0.087,
+    "lift": 2.2,
+    "count": 2
+  },
+  "PRIDE|REALIZATION": {
+    "weight": 0.025,
+    "p_b_given_a": 0.061,
+    "lift": 2.2,
+    "count": 2
+  },
+  "CONTENTMENT|AESTHETIC_APPRECIATION": {
+    "weight": 0.038,
+    "p_b_given_a": 0.091,
+    "lift": 18.98,
+    "count": 2
+  },
+  "SATISFACTION|ADMIRATION": {
+    "weight": 0.061,
+    "p_b_given_a": 0.143,
+    "lift": 9.18,
+    "count": 2
+  },
+  "AESTHETIC_APPRECIATION|CONTENTMENT": {
+    "weight": 0.23,
+    "p_b_given_a": 0.5,
+    "lift": 18.98,
+    "count": 2
+  },
+  "AESTHETIC_APPRECIATION|ADMIRATION": {
+    "weight": 0.433,
+    "p_b_given_a": 0.75,
+    "lift": 48.17,
+    "count": 3
+  },
+  "AESTHETIC_APPRECIATION|JOY": {
+    "weight": 0.23,
+    "p_b_given_a": 0.5,
+    "lift": 13.92,
+    "count": 2
+  },
+  "ADMIRATION|SATISFACTION": {
+    "weight": 0.066,
+    "p_b_given_a": 0.154,
+    "lift": 9.18,
+    "count": 2
+  },
+  "ADMIRATION|AESTHETIC_APPRECIATION": {
+    "weight": 0.117,
+    "p_b_given_a": 0.231,
+    "lift": 48.17,
+    "count": 3
+  },
+  "JOY|AESTHETIC_APPRECIATION": {
+    "weight": 0.028,
+    "p_b_given_a": 0.067,
+    "lift": 13.92,
+    "count": 2
+  },
+  "ADORATION|ADMIRATION": {
+    "weight": 0.331,
+    "p_b_given_a": 0.6,
+    "lift": 38.54,
+    "count": 3
+  },
+  "ADMIRATION|ADORATION": {
+    "weight": 0.117,
+    "p_b_given_a": 0.231,
+    "lift": 38.54,
+    "count": 3
+  },
+  "NOSTALGIA|CONCENTRATION": {
+    "weight": 0.109,
+    "p_b_given_a": 0.25,
+    "lift": 2.32,
+    "count": 2
+  },
+  "CONCENTRATION|NOSTALGIA": {
+    "weight": 0.009,
+    "p_b_given_a": 0.022,
+    "lift": 2.32,
+    "count": 2
+  },
+  "TRIUMPH|RELIEF": {
+    "weight": 0.139,
+    "p_b_given_a": 0.273,
+    "lift": 32.53,
+    "count": 3
+  },
+  "PRIDE|RELIEF": {
+    "weight": 0.025,
+    "p_b_given_a": 0.061,
+    "lift": 7.23,
+    "count": 2
+  },
+  "RELIEF|TRIUMPH": {
+    "weight": 0.226,
+    "p_b_given_a": 0.429,
+    "lift": 32.53,
+    "count": 3
+  },
+  "RELIEF|PRIDE": {
+    "weight": 0.125,
+    "p_b_given_a": 0.286,
+    "lift": 7.23,
+    "count": 2
+  },
+  "DETERMINATION|AWKWARDNESS": {
+    "weight": 0.057,
+    "p_b_given_a": 0.105,
+    "lift": 1.69,
+    "count": 4
+  },
+  "AWKWARDNESS|DETERMINATION": {
+    "weight": 0.042,
+    "p_b_given_a": 0.077,
+    "lift": 1.69,
+    "count": 4
+  },
+  "PRIDE|SURPRISE_POSITIVE": {
+    "weight": 0.025,
+    "p_b_given_a": 0.061,
+    "lift": 1.41,
+    "count": 2
+  },
+  "INTEREST|TRIUMPH": {
+    "weight": 0.012,
+    "p_b_given_a": 0.03,
+    "lift": 2.27,
+    "count": 2
+  },
+  "SURPRISE_POSITIVE|PRIDE": {
+    "weight": 0.023,
+    "p_b_given_a": 0.056,
+    "lift": 1.41,
+    "count": 2
+  },
+  "SURPRISE_POSITIVE|TRIUMPH": {
+    "weight": 0.041,
+    "p_b_given_a": 0.083,
+    "lift": 6.33,
+    "count": 3
+  },
+  "RELIEF|CONCENTRATION": {
+    "weight": 0.226,
+    "p_b_given_a": 0.429,
+    "lift": 3.98,
+    "count": 3
+  },
+  "TRIUMPH|INTEREST": {
+    "weight": 0.078,
+    "p_b_given_a": 0.182,
+    "lift": 2.27,
+    "count": 2
+  },
+  "TRIUMPH|SURPRISE_POSITIVE": {
+    "weight": 0.139,
+    "p_b_given_a": 0.273,
+    "lift": 6.33,
+    "count": 3
+  },
+  "CONCENTRATION|RELIEF": {
+    "weight": 0.016,
+    "p_b_given_a": 0.033,
+    "lift": 3.98,
+    "count": 3
+  },
+  "TRIUMPH|AWKWARDNESS": {
+    "weight": 0.078,
+    "p_b_given_a": 0.182,
+    "lift": 2.92,
+    "count": 2
+  },
+  "AWKWARDNESS|TRIUMPH": {
+    "weight": 0.016,
+    "p_b_given_a": 0.038,
+    "lift": 2.92,
+    "count": 2
+  },
+  "DETERMINATION|CRAVING": {
+    "weight": 0.022,
+    "p_b_given_a": 0.053,
+    "lift": 2.09,
+    "count": 2
+  },
+  "CRAVING|DETERMINATION": {
+    "weight": 0.04,
+    "p_b_given_a": 0.095,
+    "lift": 2.09,
+    "count": 2
+  },
+  "ADMIRATION|AWE": {
+    "weight": 0.066,
+    "p_b_given_a": 0.154,
+    "lift": 9.88,
+    "count": 2
+  },
+  "AWE|ADMIRATION": {
+    "weight": 0.066,
+    "p_b_given_a": 0.154,
+    "lift": 9.88,
+    "count": 2
+  }
+}

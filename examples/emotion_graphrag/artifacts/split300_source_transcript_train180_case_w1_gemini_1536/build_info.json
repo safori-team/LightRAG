@@ -1,0 +1,35 @@
+{
+  "run": "split300_source_transcript_train180_case_w1_gemini_1536",
+  "backend": {
+    "llm_binding": "gemini",
+    "llm_model": "gemini-2.5-flash",
+    "embedding_binding": "gemini",
+    "embedding_model": "gemini-embedding-001",
+    "embedding_dim": 1536
+  },
+  "split": "source-prefix-disjoint train",
+  "split_dir": "results/source_prefix_transcript_split_300",
+  "coverage": {
+    "records": 180,
+    "source_prefixes": 119,
+    "missing_transcript": 0,
+    "reading_counts": {
+      "4": 62,
+      "5": 118
+    },
+    "avg_gold": 3.111,
+    "avg_detected": 3.089
+  },
+  "entities": 234,
+  "co_occurs": 200,
+  "expresses": 1272,
+  "chunks": 180,
+  "weighting": "W1=votes/available_annotators_per_clip",
+  "aggregate": {
+    "n_readings": 835,
+    "n_pairs": 934,
+    "n_undirected_edges": 200,
+    "n_directional_entries": 400,
+    "unique_subs_seen": 48
+  }
+}
