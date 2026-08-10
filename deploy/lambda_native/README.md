@@ -3,6 +3,11 @@
 Builds `emotion_api/` + LightRAG core + the emotion graph artifact into an AWS
 Lambda container image.
 
+The graph artifact is **not** tracked by Git (it embeds speech transcripts and
+this fork is public). `build-local.sh` stages it automatically via
+`prepare-artifact.sh`; pass a source directory if it is not in the sibling
+`../lightRAG` worktree.
+
 ```bash
 ./build-local.sh          # or: LAMBDA_PLATFORM=linux/amd64 ./build-local.sh
 ./test-local.sh           # offline checks, no Gemini calls

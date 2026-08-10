@@ -25,8 +25,29 @@ EC2 Spring server ──HTTPS──> Lambda Function URL ──> emotion_api.han
 | `deploy/lambda_native/Dockerfile.dockerignore` | Build-context exclusions |
 | `deploy/lambda_native/*.sh` | Build / local test / ECR push |
 | `deploy/lambda_native/events/` | Request fixtures used by the local test |
-| `deploy/emotion_artifact/split455_train273_case_w1_gemini_1536/` | Graph artifact baked into the image |
+| `deploy/lambda_native/prepare-artifact.sh` | Stages the graph artifact into the build context |
+| `deploy/emotion_artifact/` | Staging directory — **git-ignored**, created by the script above |
 | `tests/emotion_api/` | Unit, contract, and query-config regression tests |
+
+## The graph artifact is not in this repository
+
+`kv_store_text_chunks.json` holds 273 verbatim speech transcripts, and this
+repository is a **public** fork of `HKUDS/LightRAG`. Committing the artifact
+would publish that dataset irreversibly, so it is git-ignored and injected at
+build time instead. It reaches production only inside the private ECR image.
+
+Keep the source somewhere controlled — the machine that built it, or a private
+S3 bucket:
+
+```bash
+aws s3 sync s3://<private-bucket>/emotion-artifacts/<run>/ /path/to/<run>/
+./deploy/lambda_native/prepare-artifact.sh /path/to/<run>/
+```
+
+`build-local.sh` runs the script automatically when the staging directory is
+missing, defaulting to the sibling `../lightRAG` dev worktree. If the artifact
+cannot be found the build fails loudly rather than producing an image with a
+missing graph.
 
 ## API contract
 
@@ -275,11 +296,14 @@ still available by tag.
 The artifact is baked into the image, so a new graph means a new image.
 
 1. Build the new artifact with the emotion experiment pipeline.
-2. Copy it to `deploy/emotion_artifact/<run-name>/`, keeping `build_info.json`
-   and renaming the pipeline's `rag_storage/` directory to `graph_storage/`.
-   The rename is required: the repository `.gitignore` excludes every
-   `rag_storage/` directory, so the artifact could not otherwise be committed.
-3. Update the `COPY` path in `deploy/lambda_native/Dockerfile`.
+2. Stage it, from its source directory or a private S3 prefix:
+   ```bash
+   ARTIFACT_RUN=<new-run-name> ./deploy/lambda_native/prepare-artifact.sh /path/to/<new-run-name>
+   ```
+   The script handles the `rag_storage/` → `graph_storage/` rename and verifies
+   all five storage files are present before staging.
+3. Update the `COPY` path in `deploy/lambda_native/Dockerfile`, the allow rule in
+   `Dockerfile.dockerignore`, and the `run` default in `prepare-artifact.sh`.
 4. Update the expected `artifact_version` in `deploy/lambda_native/test-local.sh`.
 5. Rebuild, run the local tests, push, and deploy as above.
 
