@@ -1,0 +1,29 @@
+# Runtime dependencies for the Lambda emotion image.
+#
+# This is the LightRAG core dependency set minus everything the native query
+# path never touches (no FastAPI/WebUI stack, no non-file storage backends, no
+# LLM provider except Gemini, no dev/test tooling). LightRAG itself is copied
+# from this branch instead of being installed from PyPI.
+#
+# pandas is deliberately omitted: lightrag/utils.py imports it lazily inside the
+# Excel export branch only, which this service never reaches. Dropping it (plus
+# pytz/tzdata/dateutil) removes ~80 MB. The Dockerfile asserts at build time
+# that nothing on the import path needs it.
+aiohttp
+configparser
+google-api-core>=2.0.0,<3.0.0
+google-genai>=1.0.0,<3.0.0
+json_repair
+nano-vectordb
+networkx
+numpy>=1.24.0,<3.0.0
+packaging
+pipmaster
+pydantic
+pypinyin
+PyYAML>=6.0,<7.0
+python-dotenv
+setuptools
+tenacity
+tiktoken
+xlsxwriter>=3.1.0

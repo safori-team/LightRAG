@@ -1,0 +1,30 @@
+# Build context exclusions for deploy/lambda_native/Dockerfile.
+#
+# BuildKit prefers "<dockerfile-path>.dockerignore" over the repository-root
+# .dockerignore, so this file scopes the Lambda build without touching the
+# upstream LightRAG Docker setup. Nothing listed here is deleted from the
+# branch — it is excluded from the image build only.
+
+# Everything is excluded by default; the image needs three paths.
+*
+!lightrag/**
+!emotion_api/**
+!deploy/emotion_artifact/split455_train273_case_w1_gemini_1536/**
+!deploy/lambda_native/requirements.txt
+
+# Re-exclude what must never enter the image even under the allowed paths.
+**/__pycache__
+**/*.pyc
+**/*.pyo
+**/.pytest_cache
+**/.ruff_cache
+**/.mypy_cache
+**/.DS_Store
+**/*.log
+
+# The packaged WebUI and Swagger assets are static files served by the FastAPI
+# app, never imported. Python packages under lightrag/ are all kept: several
+# modules import siblings lazily, and pruning them for a few MB would make the
+# fork's import graph fragile for no meaningful size win.
+lightrag/api/webui/**
+lightrag/api/static/**

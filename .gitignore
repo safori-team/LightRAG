@@ -94,3 +94,7 @@ memory-bank
 
 # result
 /examples/emotion_graphrag/results/*
+# Emotion graph artifact: embeds verbatim speech transcripts and this fork is
+# public. Staged into the build context by deploy/lambda_native/prepare-artifact.sh
+# and shipped only inside the private ECR image.
+/deploy/emotion_artifact/

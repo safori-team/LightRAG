@@ -1,0 +1,13 @@
+{
+  "request_id": "231436",
+  "gemini_result": {
+    "transcript": "오늘 시험 결과가 생각보다 훨씬 잘 나와서 하루 종일 기분이 붕 떠 있었어요. 부모님께 말씀드릴 생각에 벌써 설레네요.",
+    "summary": "화자가 예상보다 좋은 시험 결과를 받고 그 소식을 부모님께 전할 기대를 표현한다.",
+    "prosody": "말끝이 올라가고 발화 속도가 빠르며 웃음 섞인 음색이 이어진다.",
+    "major": ["HAPPY"],
+    "detected": [
+      {"code": "JOY", "confidence": 0.75},
+      {"code": "PRIDE", "confidence": 0.52}
+    ]
+  }
+}
